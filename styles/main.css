@@ -1,0 +1,241 @@
+.index-container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex; }
+  .index-container .header-image {
+    width: 250px;
+    height: 190px;
+    top: 0;
+    left: 0; }
+  .index-container .header-link {
+    position: absolute;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    height: 45px;
+    -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+    top: 20px;
+    left: 160px; }
+    .index-container .header-link a {
+      text-decoration: none;
+      font-size: 14px;
+      color: #caa5ca; }
+
+.index-main .container {
+  display: grid;
+  grid-template-columns: repeat(4, 258px);
+  grid-template-rows: repeat(4, 98px);
+  grid-gap: 10px;
+  margin: 10px auto 0 10px; }
+  .index-main .container .card {
+    padding: 1px;
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: white; }
+    .index-main .container .card .card-image {
+      width: 100%;
+      height: 100%; }
+
+.goosebumps_container .header {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  max-width: 1320px; }
+  .goosebumps_container .header-image {
+    width: 250px;
+    height: 190px;
+    top: 0;
+    left: 0; }
+  .goosebumps_container .header-link {
+    position: absolute;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    height: 45px;
+    -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+    top: 20px;
+    left: 160px; }
+    .goosebumps_container .header-link a {
+      text-decoration: none;
+      font-size: 14px;
+      color: #caa5ca; }
+  .goosebumps_container .header .item {
+    width: 250px; }
+    .goosebumps_container .header .item img {
+      width: 100%;
+      height: 96.61px; }
+    .goosebumps_container .header .item .image2 {
+      width: 230px;
+      height: 100px; }
+    .goosebumps_container .header .item .header-image {
+      height: auto; }
+
+.goosebumps_container .goosebumps-main {
+  margin: -80px 0 30px 300px;
+  display: grid;
+  grid-template-columns: repeat(4, 214px);
+  grid-column-gap: 45px;
+  grid-row-gap: 15px; }
+  .goosebumps_container .goosebumps-main .card-item {
+    width: 214px;
+    height: 200px;
+    border: 2px solid black;
+    padding: 5px;
+    -webkit-box-sizing: border-box;
+            box-sizing: border-box; }
+    .goosebumps_container .goosebumps-main .card-item .card-image {
+      width: 200px; }
+    .goosebumps_container .goosebumps-main .card-item .card-image1 {
+      width: 100px;
+      height: 148px;
+      margin-left: 100px; }
+    .goosebumps_container .goosebumps-main .card-item .card-link {
+      text-decoration: none;
+      color: black; }
+      .goosebumps_container .goosebumps-main .card-item .card-link .card-image-block {
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex; }
+        .goosebumps_container .goosebumps-main .card-item .card-link .card-image-block .image-of-block {
+          width: 100px;
+          height: 148px; }
+        .goosebumps_container .goosebumps-main .card-item .card-link .card-image-block .image-of-block1 {
+          margin-left: 92px;
+          width: 8px;
+          height: 148px; }
+        .goosebumps_container .goosebumps-main .card-item .card-link .card-image-block .image-of-block2 {
+          width: 100px;
+          height: 148px; }
+      .goosebumps_container .goosebumps-main .card-item .card-link .last-card-little-font {
+        font-size: 14px; }
+
+.give_youself_goosebumps_reader_beware_you_choose_the_scare_container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column; }
+  .give_youself_goosebumps_reader_beware_you_choose_the_scare_container .header {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+    max-width: 550px; }
+    .give_youself_goosebumps_reader_beware_you_choose_the_scare_container .header-image {
+      width: 250px;
+      height: 190px;
+      top: 0;
+      left: 0; }
+    .give_youself_goosebumps_reader_beware_you_choose_the_scare_container .header-link {
+      position: absolute;
+      display: -webkit-box;
+      display: -ms-flexbox;
+      display: flex;
+      -webkit-box-orient: vertical;
+      -webkit-box-direction: normal;
+          -ms-flex-direction: column;
+              flex-direction: column;
+      height: 45px;
+      -webkit-box-pack: justify;
+          -ms-flex-pack: justify;
+              justify-content: space-between;
+      top: 20px;
+      left: 160px; }
+      .give_youself_goosebumps_reader_beware_you_choose_the_scare_container .header-link a {
+        text-decoration: none;
+        font-size: 14px;
+        color: #caa5ca; }
+    .give_youself_goosebumps_reader_beware_you_choose_the_scare_container .header .item {
+      width: 250px; }
+      .give_youself_goosebumps_reader_beware_you_choose_the_scare_container .header .item img {
+        width: 100%;
+        height: 96.61px; }
+      .give_youself_goosebumps_reader_beware_you_choose_the_scare_container .header .item .image2 {
+        width: 230px;
+        height: 100px; }
+      .give_youself_goosebumps_reader_beware_you_choose_the_scare_container .header .item .header-image {
+        height: auto; }
+  .give_youself_goosebumps_reader_beware_you_choose_the_scare_container .give_youself_goosebumps_reader_beware_you_choose_the_scare-main {
+    margin: -80px 300px;
+    display: grid;
+    grid-template-columns: repeat(4, 214px);
+    grid-column-gap: 45px;
+    grid-row-gap: 15px; }
+    .give_youself_goosebumps_reader_beware_you_choose_the_scare_container .give_youself_goosebumps_reader_beware_you_choose_the_scare-main .card-item {
+      width: 214px;
+      height: 200px;
+      border: 2px solid black;
+      padding: 5px;
+      -webkit-box-sizing: border-box;
+              box-sizing: border-box; }
+      .give_youself_goosebumps_reader_beware_you_choose_the_scare_container .give_youself_goosebumps_reader_beware_you_choose_the_scare-main .card-item .card-image1 {
+        width: 100px;
+        height: 148px;
+        margin-left: 100px; }
+      .give_youself_goosebumps_reader_beware_you_choose_the_scare_container .give_youself_goosebumps_reader_beware_you_choose_the_scare-main .card-item .card-link {
+        text-decoration: none;
+        color: black; }
+        .give_youself_goosebumps_reader_beware_you_choose_the_scare_container .give_youself_goosebumps_reader_beware_you_choose_the_scare-main .card-item .card-link .card-image-block {
+          display: -webkit-box;
+          display: -ms-flexbox;
+          display: flex; }
+          .give_youself_goosebumps_reader_beware_you_choose_the_scare_container .give_youself_goosebumps_reader_beware_you_choose_the_scare-main .card-item .card-link .card-image-block .image-of-block {
+            width: 100px;
+            height: 148px; }
+  .give_youself_goosebumps_reader_beware_you_choose_the_scare_container .special-edition-image {
+    width: 150px;
+    height: 25px;
+    margin: 100px 0 0 302px; }
+  .give_youself_goosebumps_reader_beware_you_choose_the_scare_container .special_edition_series {
+    margin: 20px 0 40px 300px;
+    display: grid;
+    grid-template-columns: repeat(4, 214px);
+    grid-column-gap: 45px;
+    grid-row-gap: 15px; }
+    .give_youself_goosebumps_reader_beware_you_choose_the_scare_container .special_edition_series .card-item {
+      width: 214px;
+      height: 200px;
+      border: 2px solid black;
+      padding: 5px;
+      -webkit-box-sizing: border-box;
+              box-sizing: border-box; }
+      .give_youself_goosebumps_reader_beware_you_choose_the_scare_container .special_edition_series .card-item .card-image1 {
+        width: 100px;
+        height: 148px;
+        margin-left: 100px; }
+      .give_youself_goosebumps_reader_beware_you_choose_the_scare_container .special_edition_series .card-item .card-link {
+        text-decoration: none;
+        color: black; }
+        .give_youself_goosebumps_reader_beware_you_choose_the_scare_container .special_edition_series .card-item .card-link .card-image-block {
+          display: -webkit-box;
+          display: -ms-flexbox;
+          display: flex; }
+          .give_youself_goosebumps_reader_beware_you_choose_the_scare_container .special_edition_series .card-item .card-link .card-image-block .image-of-block {
+            width: 100px;
+            height: 148px; }
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Roboto", sans-serif; }
+
+/*# sourceMappingURL=main.css.map */
