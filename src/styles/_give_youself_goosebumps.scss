@@ -3,9 +3,11 @@
   flex-direction: column;
 
   .header {
-    display: flex;
-    justify-content: space-between;
-    max-width: 550px;
+    display: block;
+
+    .fixed {
+      position: fixed;
+    }
 
     &-image {
       width: 250px;
@@ -32,6 +34,7 @@
 
     .item {
       width: 250px;
+      display: inline-block;
 
       img {
         width: 100%;
@@ -47,9 +50,14 @@
         height: auto;
       }
     }
+
+    .item1 {
+      position: relative;
+      margin-left: 666px;
+    }
   }
   .give_youself_goosebumps_reader_beware_you_choose_the_scare-main {
-    margin: -80px 300px;
+    margin-left: 300px;
     display: grid;
     grid-template-columns: repeat(4, 214px);
     grid-column-gap: 45px;
@@ -65,7 +73,7 @@
       .card-image1 {
         width: 100px;
         height: 148px;
-        margin-left: 100px;
+        margin-right: 100px;
       }
 
       .card-link {
@@ -87,7 +95,7 @@
   .special-edition-image {
     width: 150px;
     height: 25px;
-    margin: 100px 0 0 302px;
+    margin: 20px 0 0 302px;
   }
 
   .special_edition_series {
@@ -107,7 +115,7 @@
       .card-image1 {
         width: 100px;
         height: 148px;
-        margin-left: 100px;
+        margin-right: 100px;
       }
 
       .card-link {

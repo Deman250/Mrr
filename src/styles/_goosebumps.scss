@@ -1,9 +1,12 @@
 .goosebumps_container {
 
   .header {
-    display: flex;
-    justify-content: space-between;
-    max-width: 1320px;
+    display: block;
+    min-width: 1500px;
+
+    .fixed {
+      position: fixed;
+    }
 
     &-image {
       width: 250px;
@@ -30,25 +33,27 @@
 
     .item {
       width: 250px;
+      display: inline-block;
 
       img {
         width: 100%;
         height: 96.61px;
       }
 
-      .image2 {
-        width: 230px;
-        height: 100px;
-      }
-
       .header-image {
         height: auto;
       }
     }
+
+    .item1 {
+      position: relative;
+      margin-left: 300px;
+    }
+
   }
 
   .goosebumps-main {
-    margin: -80px 0 30px 300px;
+    margin: 20px 0 30px 300px;
     display: grid;
     grid-template-columns: repeat(4, 214px);
     grid-column-gap: 45px;
@@ -59,6 +64,7 @@
       height: 200px;
       border: 2px solid black;
       padding: 5px;
+      background-color: white;
       box-sizing: border-box;
 
       .card-image {
@@ -100,5 +106,35 @@
         }
       }
     }
+
+    .card-item_done {
+      animation: 5s swap-color infinite;
+    }
+  }
+}
+
+@keyframes swap-color {
+  0% {
+    background-color: white;
+  }
+
+  20% {
+    background-color: rgb(196, 4, 4);
+  }
+
+  40% {
+    background-color: rgb(17, 0, 255);
+  }
+
+  60% {
+    background-color: rgb(157, 4, 196);
+  }
+
+  80% {
+    background-color: rgb(0, 255, 64);
+  }
+
+  100% {
+    background-color: white;
   }
 }

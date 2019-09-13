@@ -1,0 +1,37 @@
+.attack_of_the_mutant-container {
+  display: flex;
+
+  .header {
+
+    &-image {
+      width: 250px;
+      height: 210px;
+      top: 0;
+      left: 0;
+    }
+
+    &-link {
+      position: absolute;
+      display: flex;
+      flex-direction: column;
+      height: 45px;
+      justify-content: space-between;
+      top: 20px;
+      left: 160px;
+
+      a {
+        text-decoration: none;
+        font-size: 14px;
+        color: rgb(202, 165, 202);
+      }
+    }
+  }
+}
+
+.attack_of_the_mutant-main {
+
+  .doc {
+    width: 700px;
+    height: 700px;
+  }
+}
