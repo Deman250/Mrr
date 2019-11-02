@@ -1,11 +1,15 @@
 .index-container {
   display: flex;
+  min-height: 100vh;
+  background: url(../images/index-images/fone.jpg) no-repeat;
+  background-size: 100%;
+  background-attachment: fixed;
 
   .header {
 
     &-image {
-      width: 250px;
-      height: 210px;
+      width: 230px;
+      height: 190px;
       top: 0;
       left: 0;
     }
@@ -29,19 +33,20 @@
 }
 
 .index-main {
-  margin: 10px 0 20px 30px;
+  margin: 10px 0 20px 10px;
+  display: flex;
 
   .container {
     display: grid;
-    grid-template-columns: repeat(4, 258px);
+    grid-template-columns: repeat(4, 255px);
     grid-template-rows: repeat(4, 98px);
-    grid-gap: 10px;
+    grid-gap: 5px;
 
     .card {
       padding: 1px;
       border: 1px solid black;
       border-radius: 5px;
-      background-color: white;
+      height: 94px;
 
       .card-image {
         width: 100%;
@@ -51,16 +56,15 @@
   }
 }
 
-.index-gif {
-  width: 250px;
+.index-gif1 {
+  width: 230px;
   position: absolute;
-  top: 220px;
+  top: 195px;
   left: 0;
 }
 
-.index-gif1 {
-  width: 250px;
-  position: absolute;
-  top: 564px;
-  left: 0;
+.head-image {
+  width: 150px;
+  height: 205px;
+  padding-left: 10px;
 }

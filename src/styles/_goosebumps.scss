@@ -1,4 +1,8 @@
 .goosebumps_container {
+  min-height: 100vh;
+  background: url(../images/index-images/fone.jpg) no-repeat;
+  background-size: 100%;
+  background-attachment: fixed;
 
   .header {
     display: block;

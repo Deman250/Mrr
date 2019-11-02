@@ -1,8 +1,6 @@
 .tales_to_give_you_goosebumps_container {
-  display: block;
 
   .header {
-    // display: block;
 
     .fixed {
       position: fixed;
@@ -71,7 +69,7 @@
 
     .header-gif {
       position: relative;
-      top: -4px;
+      top: 4px;
       left: 612px;
     }
   }
