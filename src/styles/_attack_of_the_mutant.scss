@@ -30,8 +30,37 @@
 
 .attack_of_the_mutant-main {
 
+  .images {
+    margin-left: 60px;
+    display: flex;
+    width: 1000px;
+    justify-content: space-between;
+    align-items: center;
+
+    .book-image {
+      padding: 10px;
+      border: 5px dashed fuchsia;
+      border-radius: 20px;
+    }
+
+    .vertical {
+      width: 200px;
+      height: 300px;
+    }
+
+    .horizont {
+      height: 200px;
+      width: 300px;
+    }
+
+    .squad {
+      width: 300px;
+      height: 300px;
+    }
+  }
+
   .doc {
-    width: 700px;
-    height: 700px;
+    width: 800px;
+    height: 800px;
   }
 }

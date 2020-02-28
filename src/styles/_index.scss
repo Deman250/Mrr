@@ -1,11 +1,15 @@
 .index-container {
   display: flex;
+  min-height: 100vh;
+  background: url(../images/index-images/fone.jpg) no-repeat;
+  background-size: 100% 100%;
+  background-attachment: fixed;
 
   .header {
 
     &-image {
-      width: 250px;
-      height: 210px;
+      width: 230px;
+      height: 190px;
       top: 0;
       left: 0;
     }
@@ -15,6 +19,7 @@
       display: flex;
       flex-direction: column;
       height: 45px;
+      width: 120px;
       justify-content: space-between;
       top: 20px;
       left: 160px;
@@ -29,19 +34,20 @@
 }
 
 .index-main {
-  margin: 10px 0 20px 30px;
+  margin: 10px 0 20px 10px;
+  display: flex;
 
   .container {
     display: grid;
-    grid-template-columns: repeat(4, 258px);
+    grid-template-columns: repeat(4, 255px);
     grid-template-rows: repeat(4, 98px);
-    grid-gap: 10px;
+    grid-gap: 5px;
 
     .card {
       padding: 1px;
       border: 1px solid black;
       border-radius: 5px;
-      background-color: white;
+      height: 94px;
 
       .card-image {
         width: 100%;
@@ -51,16 +57,36 @@
   }
 }
 
-.index-gif {
-  width: 250px;
+.index-gif1 {
+  width: 230px;
   position: absolute;
-  top: 220px;
+  top: 195px;
   left: 0;
 }
 
-.index-gif1 {
-  width: 250px;
-  position: absolute;
-  top: 564px;
-  left: 0;
+.new {
+  // Стили всей твоей новой сетки
+  // Тут двигаешь и настраиваешь всю сетку сразу
+  // Типа display: flex, и тд
+  margin: 20px 0 0 20px;
+  // margin: top right bottom left;
+
+  &__item {
+    width: 50px;
+    height: 50px;
+    // стили елемента
+    //  аздесь полодение их между собой
+  }
+
+  &__link {
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+  }
+
+  &__image {
+    // стили картинки: ширина, и тд
+    width: 50px; // тут менять ширину
+    height: 50px;  // тут высота
+  }
 }

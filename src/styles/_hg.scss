@@ -1,0 +1,57 @@
+.hg-container {
+  display: flex;
+  min-height: 100vh;
+  // background: url(../images/index-images/fone.jpg) no-repeat;
+  // background-size: 100%;
+  // background-attachment: fixed;
+
+  .header {
+    &-image {
+      width: 230px;
+      height: 190px;
+      top: 0;
+      left: 0;
+    }
+
+    &-link {
+      position: absolute;
+      display: flex;
+      flex-direction: column;
+      height: 45px;
+      justify-content: space-between;
+      top: 20px;
+      left: 160px;
+
+      a {
+        text-decoration: none;
+        font-size: 14px;
+        color: rgb(202, 165, 202);
+      }
+    }
+  }
+}
+
+.hg-main {
+  margin: 10px 0 20px 10px;
+  display: flex;
+
+  .container {
+    display: grid;
+    grid-template-columns: repeat(2, 540px);
+    grid-template-rows: repeat(2, 295px);
+    grid-gap: 15px;
+
+    .card {
+      padding: 1px;
+      border: 1px solid black;
+      border-radius: 5px;
+      width: 540px;
+      height: 295px;
+
+      .card-image {
+        width: 540px;
+        height: 295px;
+      }
+    }
+  }
+}

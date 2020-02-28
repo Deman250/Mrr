@@ -78,6 +78,7 @@
       }
 
       .card-link {
+        font-size: 14.5px;
         text-decoration: none;
         color: black;
 
@@ -108,7 +109,7 @@
     }
 
     .card-item_done {
-      animation: 5s swap-color infinite;
+      animation: 5s swap-color1 infinite;
     }
   }
 }

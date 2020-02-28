@@ -1,0 +1,40 @@
+.gmt-main {
+  margin: -85px 0 0 280px;
+  display: grid;
+  grid-template-columns: repeat(3, 214px);
+  grid-column-gap: 30px;
+  grid-row-gap: 16px;
+
+  .card-item {
+    width: 214px;
+    height: 200px;
+    border: 2px solid black;
+    padding: 5px;
+    box-sizing: border-box;
+
+    .card-image1 {
+      width: 200px;
+      height: 148px;
+      margin-right: 100px;
+    }
+
+    .card-link {
+      text-decoration: none;
+      color: black;
+      font-size: 13px;
+
+      .card-image-block {
+        display: flex;
+
+        .image-of-block {
+          width: 100px;
+          height: 148px;
+        }
+      }
+    }
+  }
+}
+
+.card-item_done {
+  animation: 5s swap-color2 infinite;
+}

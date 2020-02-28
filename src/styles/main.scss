@@ -9,18 +9,231 @@
 @import "slappy_world";
 @import "ros";
 @import "goose";
-@import "gr2";
 @import "hr";
 @import "hh";
 @import "mw";
 @import "goosebumps_triple_header";
 @import "it_come";
+@import "gr2";
 @import "gsw";
 @import "attack_of_the_mutant";
 @import "galery";
+@import "gmt";
+@import "hg";
+@import "new_link1";
+@import "new_link2";
+@import "new_link3";
 
 body {
   margin: 0;
   padding: 0;
   font-family: "Roboto", sans-serif;
+}
+
+.hihihi-link {
+  left: 137px !important;
+}
+
+@keyframes swap-color0 {
+  0% {
+    background-color: white;
+  }
+
+  20% {
+    background-color: rgb(196, 4, 4);
+  }
+
+  40% {
+    background-color: rgb(17, 0, 255);
+  }
+
+  60% {
+    background-color: rgb(157, 4, 196);
+  }
+
+  80% {
+    background-color: rgb(0, 255, 64);
+  }
+
+  100% {
+    background-color: white;
+  }
+}
+
+@keyframes swap-color1 {
+  0% {
+    background-color: white;
+  }
+
+  20% {
+    background-color: rgb(255, 7, 7);
+  }
+
+  40% {
+    background-color: rgb(255, 0, 0);
+  }
+
+  60% {
+    background-color: rgb(157, 4, 196);
+  }
+
+  80% {
+    background-color: rgb(247, 0, 255);
+  }
+
+  100% {
+    background-color: white;
+  }
+}
+
+@keyframes swap-color2 {
+  0% {
+    background-color: white;
+  }
+
+  20% {
+    background-color: rgb(255, 7, 7);
+  }
+
+  40% {
+    background-color: rgb(255, 0, 0);
+  }
+
+  60% {
+    background-color: rgb(157, 4, 196);
+  }
+
+  80% {
+    background-color: rgb(247, 0, 255);
+  }
+
+  100% {
+    background-color: white;
+  }
+}
+
+@keyframes swap-color3 {
+  0% {
+    background-color: white;
+  }
+
+  20% {
+    background-color: rgb(255, 7, 7);
+  }
+
+  40% {
+    background-color: rgb(255, 0, 0);
+  }
+
+  60% {
+    background-color: rgb(157, 4, 196);
+  }
+
+  80% {
+    background-color: rgb(247, 0, 255);
+  }
+
+  100% {
+    background-color: white;
+  }
+}
+@keyframes swap-color4 {
+  0% {
+    background-color: white;
+  }
+
+  20% {
+    background-color: rgb(255, 7, 7);
+  }
+
+  40% {
+    background-color: rgb(255, 0, 0);
+  }
+
+  60% {
+    background-color: rgb(157, 4, 196);
+  }
+
+  80% {
+    background-color: rgb(247, 0, 255);
+  }
+
+  100% {
+    background-color: white;
+  }
+}
+@keyframes swap-color5 {
+  0% {
+    background-color: white;
+  }
+
+  20% {
+    background-color: rgb(255, 7, 7);
+  }
+
+  40% {
+    background-color: rgb(255, 0, 0);
+  }
+
+  60% {
+    background-color: rgb(157, 4, 196);
+  }
+
+  80% {
+    background-color: rgb(247, 0, 255);
+  }
+
+  100% {
+    background-color: white;
+  }
+}
+@keyframes swap-color6 {
+  0% {
+    background-color: white;
+  }
+
+  20% {
+    background-color: rgb(255, 7, 7);
+  }
+
+  40% {
+    background-color: rgb(255, 0, 0);
+  }
+
+  60% {
+    background-color: rgb(157, 4, 196);
+  }
+
+  80% {
+    background-color: rgb(247, 0, 255);
+  }
+
+  100% {
+    background-color: white;
+  }
+}
+@keyframes swap-color7 {
+  0% {
+    background-color: white;
+  }
+
+  20% {
+    background-color: rgb(7, 255, 90);
+  }
+
+  40% {
+    background-color: rgb(0, 255, 21);
+  }
+
+  60% {
+    background-color: rgb(4, 196, 52);
+  }
+
+  80% {
+    background-color: rgb(200, 255, 0);
+  }
+
+  100% {
+    background-color: white;
+  }
 }

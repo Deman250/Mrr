@@ -1,0 +1,7 @@
+{
+  "files.eol": "\n",
+  "editor.tabSize": 2,
+  "javascript.format.insertSpaceAfterConstructor": true,
+  "files.insertFinalNewline": true,
+  "files.trimFinalNewlines": true
+}
