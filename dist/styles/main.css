@@ -26,7 +26,7 @@
         -ms-flex-pack: justify;
             justify-content: space-between;
     top: 20px;
-    left: 160px; }
+    left: 140px; }
     .index-container .header-link a {
       text-decoration: none;
       font-size: 14px;
@@ -70,24 +70,24 @@
     width: 50px;
     height: 50px; }
 
-.goosebumps_container {
+.goosebumps_r_container {
   min-height: 100vh;
   max-width: 100vw;
   overflow: hidden;
-  background: url(../images/goosebumps-images/fone.jpg) no-repeat;
+  background: url(../images/index-images/fone1.jpg) no-repeat;
   background-size: 100% 100%;
   background-attachment: fixed; }
-  .goosebumps_container .header {
+  .goosebumps_r_container .header {
     display: block;
     min-width: 1500px; }
-    .goosebumps_container .header .fixed {
+    .goosebumps_r_container .header .fixed {
       position: fixed; }
-    .goosebumps_container .header-image {
+    .goosebumps_r_container .header-image {
       width: 250px;
       height: 190px;
       top: 0;
       left: 0; }
-    .goosebumps_container .header-link {
+    .goosebumps_r_container .header-link {
       position: absolute;
       display: -webkit-box;
       display: -ms-flexbox;
@@ -102,1227 +102,71 @@
               justify-content: space-between;
       top: 20px;
       left: 160px; }
-      .goosebumps_container .header-link a {
+      .goosebumps_r_container .header-link a {
         text-decoration: none;
         font-size: 14px;
         color: #caa5ca; }
-    .goosebumps_container .header .item {
+    .goosebumps_r_container .header .item {
       width: 250px;
       display: inline-block; }
-      .goosebumps_container .header .item img {
+      .goosebumps_r_container .header .item img {
         width: 100%;
         height: 96.61px; }
-      .goosebumps_container .header .item .header-image {
+      .goosebumps_r_container .header .item .header-image {
         height: auto; }
-    .goosebumps_container .header .item1 {
+    .goosebumps_r_container .header .item1 {
       position: relative;
       margin-left: 300px; }
-  .goosebumps_container .goosebumps-main {
+  .goosebumps_r_container .goosebumps_r-main {
     margin-left: 300px;
     display: grid;
     grid-template-columns: repeat(4, 214px);
     grid-column-gap: 45px;
     grid-row-gap: 15px; }
-    .goosebumps_container .goosebumps-main .card-item {
+    .goosebumps_r_container .goosebumps_r-main .card-item {
       width: 214px;
-      height: 200px;
-      border: 2px solid black;
-      padding: 5px;
-      background-color: white;
-      -webkit-box-sizing: border-box;
-              box-sizing: border-box; }
-      .goosebumps_container .goosebumps-main .card-item .card-image {
-        width: 200px; }
-      .goosebumps_container .goosebumps-main .card-item .card-image1 {
-        width: 100px;
-        height: 148px;
-        margin-left: 100px; }
-      .goosebumps_container .goosebumps-main .card-item .card-link {
-        text-decoration: none;
-        color: black; }
-        .goosebumps_container .goosebumps-main .card-item .card-link .card-image-block {
-          display: -webkit-box;
-          display: -ms-flexbox;
-          display: flex; }
-          .goosebumps_container .goosebumps-main .card-item .card-link .card-image-block .image-of-block {
-            width: 100px;
-            height: 148px; }
-          .goosebumps_container .goosebumps-main .card-item .card-link .card-image-block .image-of-block1 {
-            margin-left: 92px;
-            width: 8px;
-            height: 148px; }
-          .goosebumps_container .goosebumps-main .card-item .card-link .card-image-block .image-of-block2 {
-            width: 100px;
-            height: 148px; }
-        .goosebumps_container .goosebumps-main .card-item .card-link .last-card-little-font {
-          font-size: 14px; }
-    .goosebumps_container .goosebumps-main .card-item_done {
-      -webkit-animation: 5s swap-color0 infinite;
-              animation: 5s swap-color0 infinite; }
-
-.give_youself_goosebumps_reader_beware_you_choose_the_scare_container {
-  min-height: 100vh;
-  max-width: 100vw;
-  overflow: hidden;
-  background: url(../images/gr2-images/fone.jpg) no-repeat;
-  background-size: 100% 100%;
-  background-attachment: fixed;
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-orient: vertical;
-  -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column; }
-  .give_youself_goosebumps_reader_beware_you_choose_the_scare_container .header {
-    display: block; }
-    .give_youself_goosebumps_reader_beware_you_choose_the_scare_container .header .fixed {
-      position: fixed; }
-    .give_youself_goosebumps_reader_beware_you_choose_the_scare_container .header-image {
-      width: 250px;
-      height: 190px;
-      top: 0;
-      left: 0; }
-    .give_youself_goosebumps_reader_beware_you_choose_the_scare_container .header-link {
-      position: absolute;
-      display: -webkit-box;
-      display: -ms-flexbox;
-      display: flex;
-      -webkit-box-orient: vertical;
-      -webkit-box-direction: normal;
-          -ms-flex-direction: column;
-              flex-direction: column;
-      height: 45px;
-      -webkit-box-pack: justify;
-          -ms-flex-pack: justify;
-              justify-content: space-between;
-      top: 20px;
-      left: 160px; }
-      .give_youself_goosebumps_reader_beware_you_choose_the_scare_container .header-link a {
-        text-decoration: none;
-        font-size: 14px;
-        color: #caa5ca; }
-    .give_youself_goosebumps_reader_beware_you_choose_the_scare_container .header .item {
-      width: 250px;
-      display: inline-block; }
-      .give_youself_goosebumps_reader_beware_you_choose_the_scare_container .header .item img {
-        width: 100%;
-        height: 96.61px; }
-      .give_youself_goosebumps_reader_beware_you_choose_the_scare_container .header .item .image2 {
-        width: 230px;
-        height: 100px; }
-      .give_youself_goosebumps_reader_beware_you_choose_the_scare_container .header .item .header-image {
-        height: auto; }
-    .give_youself_goosebumps_reader_beware_you_choose_the_scare_container .header .item1 {
-      position: relative;
-      margin-left: 300px; }
-  .give_youself_goosebumps_reader_beware_you_choose_the_scare_container .give_youself_goosebumps_reader_beware_you_choose_the_scare-main {
-    margin-left: 300px;
-    display: grid;
-    grid-template-columns: repeat(4, 214px);
-    grid-column-gap: 45px;
-    grid-row-gap: 15px; }
-    .give_youself_goosebumps_reader_beware_you_choose_the_scare_container .give_youself_goosebumps_reader_beware_you_choose_the_scare-main .card-item {
-      width: 214px;
-      height: 200px;
-      border: 2px solid black;
-      padding: 5px;
-      -webkit-box-sizing: border-box;
-              box-sizing: border-box; }
-      .give_youself_goosebumps_reader_beware_you_choose_the_scare_container .give_youself_goosebumps_reader_beware_you_choose_the_scare-main .card-item .card-image1 {
-        width: 100px;
-        height: 148px;
-        margin-right: 100px; }
-      .give_youself_goosebumps_reader_beware_you_choose_the_scare_container .give_youself_goosebumps_reader_beware_you_choose_the_scare-main .card-item .card-link {
-        text-decoration: none;
-        color: black; }
-        .give_youself_goosebumps_reader_beware_you_choose_the_scare_container .give_youself_goosebumps_reader_beware_you_choose_the_scare-main .card-item .card-link .card-image-block {
-          display: -webkit-box;
-          display: -ms-flexbox;
-          display: flex; }
-          .give_youself_goosebumps_reader_beware_you_choose_the_scare_container .give_youself_goosebumps_reader_beware_you_choose_the_scare-main .card-item .card-link .card-image-block .image-of-block {
-            width: 100px;
-            height: 148px; }
-          .give_youself_goosebumps_reader_beware_you_choose_the_scare_container .give_youself_goosebumps_reader_beware_you_choose_the_scare-main .card-item .card-link .card-image-block .image-of-block1 {
-            margin-left: 92px;
-            width: 8px;
-            height: 148px; }
-          .give_youself_goosebumps_reader_beware_you_choose_the_scare_container .give_youself_goosebumps_reader_beware_you_choose_the_scare-main .card-item .card-link .card-image-block .image-of-block2 {
-            width: 100px;
-            height: 148px; }
-  .give_youself_goosebumps_reader_beware_you_choose_the_scare_container .special-edition-image {
-    width: 150px;
-    height: 25px;
-    margin: 20px 0 0 302px; }
-  .give_youself_goosebumps_reader_beware_you_choose_the_scare_container .special_edition_series {
-    margin: 20px 0 40px 300px;
-    display: grid;
-    grid-template-columns: repeat(4, 214px);
-    grid-column-gap: 45px;
-    grid-row-gap: 15px; }
-    .give_youself_goosebumps_reader_beware_you_choose_the_scare_container .special_edition_series .card-item {
-      width: 214px;
-      height: 200px;
-      border: 2px solid black;
-      padding: 5px;
-      -webkit-box-sizing: border-box;
-              box-sizing: border-box; }
-      .give_youself_goosebumps_reader_beware_you_choose_the_scare_container .special_edition_series .card-item .card-image1 {
-        width: 100px;
-        height: 148px;
-        margin-right: 100px; }
-      .give_youself_goosebumps_reader_beware_you_choose_the_scare_container .special_edition_series .card-item .card-link {
-        text-decoration: none;
-        color: black; }
-        .give_youself_goosebumps_reader_beware_you_choose_the_scare_container .special_edition_series .card-item .card-link .card-image-block {
-          display: -webkit-box;
-          display: -ms-flexbox;
-          display: flex; }
-          .give_youself_goosebumps_reader_beware_you_choose_the_scare_container .special_edition_series .card-item .card-link .card-image-block .image-of-block {
-            width: 100px;
-            height: 148px; }
-
-.tales_to_give_you_goosebumps_container {
-  min-height: 100vh;
-  max-width: 100vw;
-  overflow: hidden;
-  background: url(../images/tales_to_give_you_goosebumps/fone.png) no-repeat;
-  background-size: 100% 100%;
-  background-attachment: fixed; }
-  .tales_to_give_you_goosebumps_container .header {
-    display: block; }
-    .tales_to_give_you_goosebumps_container .header .fixed {
-      position: fixed; }
-    .tales_to_give_you_goosebumps_container .header-image {
-      width: 250px;
-      height: 190px;
-      top: 0;
-      left: 0; }
-    .tales_to_give_you_goosebumps_container .header-link {
-      position: absolute;
-      display: -webkit-box;
-      display: -ms-flexbox;
-      display: flex;
-      -webkit-box-orient: vertical;
-      -webkit-box-direction: normal;
-          -ms-flex-direction: column;
-              flex-direction: column;
-      height: 45px;
-      -webkit-box-pack: justify;
-          -ms-flex-pack: justify;
-              justify-content: space-between;
-      top: 20px;
-      left: 160px; }
-      .tales_to_give_you_goosebumps_container .header-link a {
-        text-decoration: none;
-        font-size: 14px;
-        color: #caa5ca; }
-    .tales_to_give_you_goosebumps_container .header .item {
-      width: 250px;
-      display: inline-block; }
-      .tales_to_give_you_goosebumps_container .header .item img {
-        width: 100%;
-        height: 96.61px; }
-      .tales_to_give_you_goosebumps_container .header .item .image2 {
-        width: 230px;
-        height: 100px; }
-      .tales_to_give_you_goosebumps_container .header .item .header-image {
-        height: auto; }
-    .tales_to_give_you_goosebumps_container .header .item1 {
-      position: relative;
-      margin-left: 300px; }
-
-.tales_to_give_you_goosebumps-main {
-  margin: 0 280px;
-  display: grid;
-  grid-template-columns: repeat(4, 214px);
-  grid-column-gap: 30px;
-  grid-row-gap: 16px; }
-  .tales_to_give_you_goosebumps-main .card-item {
-    width: 214px;
-    height: 200px;
-    border: 2px solid black;
-    padding: 5px;
-    -webkit-box-sizing: border-box;
-            box-sizing: border-box; }
-    .tales_to_give_you_goosebumps-main .card-item .card-image1 {
-      width: 200px;
-      height: 148px;
-      margin-right: 100px; }
-    .tales_to_give_you_goosebumps-main .card-item .card-link {
-      text-decoration: none;
-      color: black;
-      font-size: 13px; }
-      .tales_to_give_you_goosebumps-main .card-item .card-link .card-image-block {
-        display: -webkit-box;
-        display: -ms-flexbox;
-        display: flex; }
-        .tales_to_give_you_goosebumps-main .card-item .card-link .card-image-block .image-of-block {
-          width: 100px;
-          height: 148px; }
-
-.goosebumps_horrorland_container {
-  min-height: 100vh;
-  max-width: 100vw;
-  overflow: hidden;
-  background: url(../images/hr-images/fone.jpg) no-repeat;
-  background-size: 100% 100%;
-  background-attachment: fixed;
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-orient: vertical;
-  -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column; }
-  .goosebumps_horrorland_container .header {
-    display: block; }
-    .goosebumps_horrorland_container .header .fixed {
-      position: fixed; }
-    .goosebumps_horrorland_container .header-image {
-      width: 250px;
-      height: 190px;
-      top: 0;
-      left: 0; }
-    .goosebumps_horrorland_container .header-link {
-      position: absolute;
-      display: -webkit-box;
-      display: -ms-flexbox;
-      display: flex;
-      -webkit-box-orient: vertical;
-      -webkit-box-direction: normal;
-          -ms-flex-direction: column;
-              flex-direction: column;
-      height: 45px;
-      -webkit-box-pack: justify;
-          -ms-flex-pack: justify;
-              justify-content: space-between;
-      top: 20px;
-      left: 160px; }
-      .goosebumps_horrorland_container .header-link a {
-        text-decoration: none;
-        font-size: 14px;
-        color: #caa5ca; }
-    .goosebumps_horrorland_container .header .item {
-      display: inline-block;
-      width: 250px; }
-      .goosebumps_horrorland_container .header .item img {
-        width: 100%;
-        height: 96.61px; }
-      .goosebumps_horrorland_container .header .item .image2 {
-        width: 230px;
-        height: 100px; }
-      .goosebumps_horrorland_container .header .item .header-image {
-        height: auto; }
-    .goosebumps_horrorland_container .header .item1 {
-      position: relative;
-      margin-left: 300px; }
-  .goosebumps_horrorland_container .goosebumps_horrorland-main {
-    margin-left: 300px;
-    display: grid;
-    grid-template-columns: repeat(4, 214px);
-    grid-column-gap: 45px;
-    grid-row-gap: 15px; }
-    .goosebumps_horrorland_container .goosebumps_horrorland-main .card-item {
-      width: 214px;
-      height: 200px;
-      border: 2px solid black;
-      padding: 5px;
-      -webkit-box-sizing: border-box;
-              box-sizing: border-box; }
-      .goosebumps_horrorland_container .goosebumps_horrorland-main .card-item .card-image1 {
-        width: 100px;
-        height: 148px;
-        margin-right: 100px; }
-      .goosebumps_horrorland_container .goosebumps_horrorland-main .card-item .card-link {
-        text-decoration: none;
-        color: black;
-        font-size: 15px; }
-        .goosebumps_horrorland_container .goosebumps_horrorland-main .card-item .card-link .card-image-block {
-          display: -webkit-box;
-          display: -ms-flexbox;
-          display: flex; }
-          .goosebumps_horrorland_container .goosebumps_horrorland-main .card-item .card-link .card-image-block .image-of-block {
-            width: 100px;
-            height: 148px; }
-
-.goosebumps_hall_of_horrors_container {
-  min-height: 100vh;
-  max-width: 100vw;
-  overflow: hidden;
-  background: url(../images/hh-images/fone.jpg) no-repeat;
-  background-size: 100% 100%;
-  background-attachment: fixed;
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-orient: vertical;
-  -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column; }
-  .goosebumps_hall_of_horrors_container .header {
-    display: block; }
-    .goosebumps_hall_of_horrors_container .header .fixed {
-      position: fixed; }
-    .goosebumps_hall_of_horrors_container .header-image {
-      width: 250px;
-      height: 190px;
-      top: 0;
-      left: 0; }
-    .goosebumps_hall_of_horrors_container .header-link {
-      position: absolute;
-      display: -webkit-box;
-      display: -ms-flexbox;
-      display: flex;
-      -webkit-box-orient: vertical;
-      -webkit-box-direction: normal;
-          -ms-flex-direction: column;
-              flex-direction: column;
-      height: 45px;
-      -webkit-box-pack: justify;
-          -ms-flex-pack: justify;
-              justify-content: space-between;
-      top: 20px;
-      left: 160px; }
-      .goosebumps_hall_of_horrors_container .header-link a {
-        text-decoration: none;
-        font-size: 14px;
-        color: #caa5ca; }
-    .goosebumps_hall_of_horrors_container .header .item {
-      display: inline-block;
-      width: 250px; }
-      .goosebumps_hall_of_horrors_container .header .item img {
-        width: 100%;
-        height: 96.61px; }
-      .goosebumps_hall_of_horrors_container .header .item .image2 {
-        width: 230px;
-        height: 100px; }
-      .goosebumps_hall_of_horrors_container .header .item .header-image {
-        height: auto; }
-    .goosebumps_hall_of_horrors_container .header .item1 {
-      position: relative;
-      margin-left: 300px; }
-  .goosebumps_hall_of_horrors_container .goosebumps_hall_of_horrors-main {
-    margin-left: 300px;
-    display: grid;
-    grid-template-columns: repeat(4, 214px);
-    grid-column-gap: 45px;
-    grid-row-gap: 15px; }
-    .goosebumps_hall_of_horrors_container .goosebumps_hall_of_horrors-main .card-item {
-      width: 214px;
-      height: 200px;
-      border: 2px solid black;
-      padding: 5px;
-      -webkit-box-sizing: border-box;
-              box-sizing: border-box; }
-      .goosebumps_hall_of_horrors_container .goosebumps_hall_of_horrors-main .card-item .card-image1 {
-        width: 100px;
-        height: 148px;
-        margin-right: 100px; }
-      .goosebumps_hall_of_horrors_container .goosebumps_hall_of_horrors-main .card-item .card-link {
-        text-decoration: none;
-        color: black;
-        font-size: 15px; }
-        .goosebumps_hall_of_horrors_container .goosebumps_hall_of_horrors-main .card-item .card-link .card-image-block {
-          display: -webkit-box;
-          display: -ms-flexbox;
-          display: flex; }
-          .goosebumps_hall_of_horrors_container .goosebumps_hall_of_horrors-main .card-item .card-link .card-image-block .image-of-block {
-            width: 100px;
-            height: 148px; }
-
-.most_wanted_container {
-  min-height: 100vh;
-  max-width: 100vw;
-  overflow: hidden;
-  background: url(../images/mw-images/fone.jpg) no-repeat;
-  background-size: 100% 100%;
-  background-attachment: fixed;
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-orient: vertical;
-  -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column; }
-  .most_wanted_container .header {
-    display: block; }
-    .most_wanted_container .header .fixed {
-      position: fixed; }
-    .most_wanted_container .header-image {
-      width: 250px;
-      height: 190px;
-      top: 0;
-      left: 0; }
-    .most_wanted_container .header-link {
-      position: absolute;
-      display: -webkit-box;
-      display: -ms-flexbox;
-      display: flex;
-      -webkit-box-orient: vertical;
-      -webkit-box-direction: normal;
-          -ms-flex-direction: column;
-              flex-direction: column;
-      height: 45px;
-      -webkit-box-pack: justify;
-          -ms-flex-pack: justify;
-              justify-content: space-between;
-      top: 20px;
-      left: 160px; }
-      .most_wanted_container .header-link a {
-        text-decoration: none;
-        font-size: 14px;
-        color: #caa5ca; }
-    .most_wanted_container .header .item {
-      width: 250px;
-      display: inline-block; }
-      .most_wanted_container .header .item img {
-        width: 100%;
-        height: 96.61px; }
-      .most_wanted_container .header .item .image2 {
-        width: 230px;
-        height: 100px; }
-      .most_wanted_container .header .item .header-image {
-        height: auto; }
-    .most_wanted_container .header .item1 {
-      position: relative;
-      margin-left: 300px; }
-  .most_wanted_container .most_wanted-main {
-    margin-left: 300px;
-    display: grid;
-    grid-template-columns: repeat(4, 214px);
-    grid-column-gap: 45px;
-    grid-row-gap: 15px; }
-    .most_wanted_container .most_wanted-main .card-item {
-      width: 214px;
-      height: 200px;
-      border: 2px solid black;
-      padding: 5px;
-      -webkit-box-sizing: border-box;
-              box-sizing: border-box; }
-      .most_wanted_container .most_wanted-main .card-item .card-image1 {
-        width: 100px;
-        height: 148px;
-        margin-right: 100px; }
-      .most_wanted_container .most_wanted-main .card-item .card-link {
-        text-decoration: none;
-        color: black; }
-        .most_wanted_container .most_wanted-main .card-item .card-link .card-image-block {
-          display: -webkit-box;
-          display: -ms-flexbox;
-          display: flex; }
-          .most_wanted_container .most_wanted-main .card-item .card-link .card-image-block .image-of-block {
-            width: 100px;
-            height: 148px; }
-  .most_wanted_container .special-edition-image {
-    width: 150px;
-    height: 25px;
-    margin: 20px 0 0 302px; }
-  .most_wanted_container .special_edition_series {
-    margin: 20px 0 40px 300px;
-    display: grid;
-    grid-template-columns: repeat(4, 214px);
-    grid-column-gap: 45px;
-    grid-row-gap: 15px; }
-    .most_wanted_container .special_edition_series .card-item {
-      width: 214px;
-      height: 200px;
-      border: 2px solid black;
-      padding: 5px;
-      -webkit-box-sizing: border-box;
-              box-sizing: border-box; }
-      .most_wanted_container .special_edition_series .card-item .card-image1 {
-        width: 100px;
-        height: 148px;
-        margin-right: 100px; }
-      .most_wanted_container .special_edition_series .card-item .card-link {
-        text-decoration: none;
-        color: black; }
-        .most_wanted_container .special_edition_series .card-item .card-link .card-image-block {
-          display: -webkit-box;
-          display: -ms-flexbox;
-          display: flex; }
-          .most_wanted_container .special_edition_series .card-item .card-link .card-image-block .image-of-block {
-            width: 100px;
-            height: 148px; }
-
-.monster_edition_container {
-  min-height: 100vh;
-  max-width: 100vw;
-  overflow: hidden;
-  background: url(../images/monster_edition-images/fone.jpg) no-repeat;
-  background-size: 100% 100%;
-  background-attachment: fixed;
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-orient: vertical;
-  -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column; }
-  .monster_edition_container .header {
-    display: block; }
-    .monster_edition_container .header .fixed {
-      position: fixed; }
-    .monster_edition_container .header-image {
-      width: 250px;
-      height: 190px;
-      top: 0;
-      left: 0; }
-    .monster_edition_container .header-link {
-      position: absolute;
-      display: -webkit-box;
-      display: -ms-flexbox;
-      display: flex;
-      -webkit-box-orient: vertical;
-      -webkit-box-direction: normal;
-          -ms-flex-direction: column;
-              flex-direction: column;
-      height: 45px;
-      -webkit-box-pack: justify;
-          -ms-flex-pack: justify;
-              justify-content: space-between;
-      top: 20px;
-      left: 160px; }
-      .monster_edition_container .header-link a {
-        text-decoration: none;
-        font-size: 14px;
-        color: #caa5ca; }
-    .monster_edition_container .header .item {
-      display: inline-block;
-      width: 250px; }
-      .monster_edition_container .header .item img {
-        width: 100%;
-        height: 96.61px; }
-      .monster_edition_container .header .item .image2 {
-        width: 230px;
-        height: 100px; }
-      .monster_edition_container .header .item .header-image {
-        height: auto; }
-    .monster_edition_container .header .item1 {
-      position: relative;
-      margin-left: 300px; }
-  .monster_edition_container .monster_edition-main {
-    margin: 15px 300px 0;
-    display: grid;
-    grid-template-columns: repeat(4, 214px);
-    grid-column-gap: 45px;
-    grid-row-gap: 15px; }
-    .monster_edition_container .monster_edition-main .card-item {
-      width: 214px;
-      height: 180px;
-      border: 2px solid black;
-      padding: 5px;
-      -webkit-box-sizing: border-box;
-              box-sizing: border-box; }
-      .monster_edition_container .monster_edition-main .card-item .card-image1 {
-        width: 100px;
-        height: 148px;
-        margin-right: 100px; }
-      .monster_edition_container .monster_edition-main .card-item .card-link {
-        text-decoration: none;
-        color: black;
-        font-size: 15px; }
-        .monster_edition_container .monster_edition-main .card-item .card-link .card-image-block {
-          display: -webkit-box;
-          display: -ms-flexbox;
-          display: flex; }
-          .monster_edition_container .monster_edition-main .card-item .card-link .card-image-block .image-of-block {
-            width: 100px;
-            height: 148px; }
-
-.slappy_world_container {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-orient: vertical;
-  -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column; }
-  .slappy_world_container .header {
-    display: block; }
-    .slappy_world_container .header .fixed {
-      position: fixed; }
-    .slappy_world_container .header-image {
-      width: 250px;
-      height: 190px;
-      top: 0;
-      left: 0; }
-    .slappy_world_container .header-link {
-      position: absolute;
-      display: -webkit-box;
-      display: -ms-flexbox;
-      display: flex;
-      -webkit-box-orient: vertical;
-      -webkit-box-direction: normal;
-          -ms-flex-direction: column;
-              flex-direction: column;
-      height: 45px;
-      -webkit-box-pack: justify;
-          -ms-flex-pack: justify;
-              justify-content: space-between;
-      top: 20px;
-      left: 160px; }
-      .slappy_world_container .header-link a {
-        text-decoration: none;
-        font-size: 14px;
-        color: #caa5ca; }
-    .slappy_world_container .header .item {
-      display: inline-block;
-      width: 250px; }
-      .slappy_world_container .header .item img {
-        width: 100%;
-        height: 96.61px; }
-      .slappy_world_container .header .item .image2 {
-        width: 230px;
-        height: 100px; }
-      .slappy_world_container .header .item .header-image {
-        height: auto; }
-    .slappy_world_container .header .item1 {
-      position: relative;
-      margin-left: 300px; }
-  .slappy_world_container .slappy_world-main {
-    margin-left: 300px;
-    display: grid;
-    grid-template-columns: repeat(4, 214px);
-    grid-column-gap: 45px;
-    grid-row-gap: 15px; }
-    .slappy_world_container .slappy_world-main .card-item {
-      width: 214px;
-      height: 200px;
-      border: 2px solid black;
-      padding: 5px;
-      -webkit-box-sizing: border-box;
-              box-sizing: border-box; }
-      .slappy_world_container .slappy_world-main .card-item .card-image1 {
-        width: 100px;
-        height: 148px;
-        margin-right: 100px; }
-      .slappy_world_container .slappy_world-main .card-item .card-link {
-        text-decoration: none;
-        color: black;
-        font-size: 15px; }
-        .slappy_world_container .slappy_world-main .card-item .card-link .card-image-block {
-          display: -webkit-box;
-          display: -ms-flexbox;
-          display: flex; }
-          .slappy_world_container .slappy_world-main .card-item .card-link .card-image-block .image-of-block {
-            width: 100px;
-            height: 148px; }
-
-.ros-container {
-  min-height: 100vh;
-  max-width: 100vw;
-  overflow: hidden;
-  background: url(../images/ros-images/fone.jpg) no-repeat;
-  background-size: 100% 100%;
-  background-attachment: fixed;
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex; }
-  .ros-container .header-image {
-    width: 250px;
-    height: 210px;
-    top: 0;
-    left: 0; }
-  .ros-container .header-link {
-    position: absolute;
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-    -webkit-box-orient: vertical;
-    -webkit-box-direction: normal;
-        -ms-flex-direction: column;
-            flex-direction: column;
-    height: 45px;
-    -webkit-box-pack: justify;
-        -ms-flex-pack: justify;
-            justify-content: space-between;
-    top: 20px;
-    left: 160px; }
-    .ros-container .header-link a {
-      text-decoration: none;
-      font-size: 14px;
-      color: #caa5ca; }
-
-.ros-main {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  margin-left: 5px; }
-  .ros-main .container {
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-    -webkit-box-orient: vertical;
-    -webkit-box-direction: normal;
-        -ms-flex-direction: column;
-            flex-direction: column;
-    -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center; }
-    .ros-main .container .item {
-      -webkit-box-sizing: border-box;
-              box-sizing: border-box;
-      width: 214px;
-      height: 200px;
-      border: 2px solid black;
-      padding: 5px;
-      background-color: white;
-      margin: 5px 5px 0 0; }
-      .ros-main .container .item_image {
-        width: 100%;
-        height: 150px; }
-      .ros-main .container .item_image1 {
-        display: block;
-        width: 100px; }
-    .ros-main .container .item-title {
-      width: 214px;
-      height: 100px;
-      border: none;
-      padding: 5px;
-      margin-right: 5px; }
-      .ros-main .container .item-title_image {
-        width: 100%;
-        height: 100px; }
-  .ros-main .card-item_done {
-    -webkit-animation: 5s swap-color7 infinite;
-            animation: 5s swap-color7 infinite; }
-
-.goose_container {
-  min-height: 100vh;
-  max-width: 100vw;
-  overflow: hidden;
-  background: url(../images/goosebumps-images/fone.jpg) no-repeat;
-  background-size: 100% 100%;
-  background-attachment: fixed;
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-orient: vertical;
-  -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column; }
-  .goose_container .header {
-    display: block; }
-    .goose_container .header .fixed {
-      position: fixed; }
-    .goose_container .header-image {
-      width: 250px;
-      height: 190px;
-      top: 0;
-      left: 0; }
-    .goose_container .header-link {
-      position: absolute;
-      display: -webkit-box;
-      display: -ms-flexbox;
-      display: flex;
-      -webkit-box-orient: vertical;
-      -webkit-box-direction: normal;
-          -ms-flex-direction: column;
-              flex-direction: column;
-      height: 45px;
-      -webkit-box-pack: justify;
-          -ms-flex-pack: justify;
-              justify-content: space-between;
-      top: 20px;
-      left: 160px; }
-      .goose_container .header-link a {
-        text-decoration: none;
-        font-size: 14px;
-        color: #caa5ca; }
-    .goose_container .header .item {
-      width: 250px;
-      display: inline-block; }
-      .goose_container .header .item img {
-        width: 100%;
-        height: 96.61px; }
-      .goose_container .header .item .image2 {
-        width: 230px;
-        height: 100px; }
-      .goose_container .header .item .header-image {
-        height: auto; }
-    .goose_container .header .item1 {
-      position: relative;
-      margin-left: 300px; }
-  .goose_container .goose-main {
-    margin-left: 300px;
-    display: grid;
-    grid-template-columns: repeat(4, 214px);
-    grid-column-gap: 45px;
-    grid-row-gap: 15px; }
-    .goose_container .goose-main .card-item {
-      width: 214px;
-      height: 200px;
+      height: 218px;
       border: 2px solid black;
       padding: 5px;
       -webkit-box-sizing: border-box;
               box-sizing: border-box;
       background-color: rgba(29, 129, 51, 0.5); }
-      .goose_container .goose-main .card-item .card-image1 {
-        width: 100px;
-        height: 148px;
-        margin-right: 100px; }
-      .goose_container .goose-main .card-item .card-link {
-        text-decoration: none;
-        color: black; }
-        .goose_container .goose-main .card-item .card-link .card-image-block {
-          display: -webkit-box;
-          display: -ms-flexbox;
-          display: flex; }
-          .goose_container .goose-main .card-item .card-link .card-image-block .image-of-block {
-            width: 100px;
-            height: 148px; }
-  .goose_container .special-edition-image {
-    width: 150px;
-    height: 25px;
-    margin: 20px 0 0 302px; }
-  .goose_container .special_edition_series {
-    margin: 20px 0 40px 300px;
-    display: grid;
-    grid-template-columns: repeat(4, 214px);
-    grid-column-gap: 45px;
-    grid-row-gap: 15px; }
-    .goose_container .special_edition_series .card-item {
-      width: 214px;
-      height: 200px;
-      border: 2px solid black;
-      padding: 5px;
-      -webkit-box-sizing: border-box;
-              box-sizing: border-box; }
-      .goose_container .special_edition_series .card-item .card-image1 {
-        width: 100px;
-        height: 148px;
-        margin-right: 100px; }
-      .goose_container .special_edition_series .card-item .card-link {
-        text-decoration: none;
-        color: black; }
-        .goose_container .special_edition_series .card-item .card-link .card-image-block {
-          display: -webkit-box;
-          display: -ms-flexbox;
-          display: flex; }
-          .goose_container .special_edition_series .card-item .card-link .card-image-block .image-of-block {
-            width: 100px;
-            height: 148px; }
-
-.hr_container {
-  min-height: 100vh;
-  max-width: 100vw;
-  overflow: hidden;
-  background: url(../images/hr-images/fone.jpg) no-repeat;
-  background-size: 100% 100%;
-  background-attachment: fixed; }
-  .hr_container .header {
-    display: block;
-    min-width: 1500px; }
-    .hr_container .header .fixed {
-      position: fixed; }
-    .hr_container .header-image {
-      width: 250px;
-      height: 190px;
-      top: 0;
-      left: 0; }
-    .hr_container .header-link {
-      position: absolute;
-      display: -webkit-box;
-      display: -ms-flexbox;
-      display: flex;
-      -webkit-box-orient: vertical;
-      -webkit-box-direction: normal;
-          -ms-flex-direction: column;
-              flex-direction: column;
-      height: 45px;
-      -webkit-box-pack: justify;
-          -ms-flex-pack: justify;
-              justify-content: space-between;
-      top: 20px;
-      left: 160px; }
-      .hr_container .header-link a {
-        text-decoration: none;
-        font-size: 14px;
-        color: #caa5ca; }
-    .hr_container .header .item {
-      width: 250px;
-      display: inline-block; }
-      .hr_container .header .item img {
-        width: 100%;
-        height: 96.61px; }
-      .hr_container .header .item .header-image {
-        height: auto; }
-    .hr_container .header .item1 {
-      position: relative;
-      margin-left: 300px; }
-  .hr_container .hr-main {
-    margin-left: 300px;
-    display: grid;
-    grid-template-columns: repeat(4, 214px);
-    grid-column-gap: 45px;
-    grid-row-gap: 15px; }
-    .hr_container .hr-main .card-item {
-      width: 214px;
-      height: 200px;
-      border: 2px solid black;
-      padding: 5px;
-      background-color: white;
-      -webkit-box-sizing: border-box;
-              box-sizing: border-box; }
-      .hr_container .hr-main .card-item .card-image {
+      .goosebumps_r_container .goosebumps_r-main .card-item .card-image {
         width: 200px; }
-      .hr_container .hr-main .card-item .card-image1 {
+      .goosebumps_r_container .goosebumps_r-main .card-item .card-image1 {
         width: 100px;
         height: 148px;
         margin-left: 100px; }
-      .hr_container .hr-main .card-item .card-link {
+      .goosebumps_r_container .goosebumps_r-main .card-item .card-link {
         text-decoration: none;
         color: black; }
-        .hr_container .hr-main .card-item .card-link .card-image-block {
+        .goosebumps_r_container .goosebumps_r-main .card-item .card-link .card-image-block {
           display: -webkit-box;
           display: -ms-flexbox;
           display: flex; }
-          .hr_container .hr-main .card-item .card-link .card-image-block .image-of-block {
+          .goosebumps_r_container .goosebumps_r-main .card-item .card-link .card-image-block .image-of-block {
             width: 100px;
             height: 148px; }
-          .hr_container .hr-main .card-item .card-link .card-image-block .image-of-block1 {
+          .goosebumps_r_container .goosebumps_r-main .card-item .card-link .card-image-block .image-of-block1 {
             margin-left: 92px;
             width: 8px;
             height: 148px; }
-          .hr_container .hr-main .card-item .card-link .card-image-block .image-of-block2 {
+          .goosebumps_r_container .goosebumps_r-main .card-item .card-link .card-image-block .image-of-block2 {
             width: 100px;
             height: 148px; }
-        .hr_container .hr-main .card-item .card-link .last-card-little-font {
+        .goosebumps_r_container .goosebumps_r-main .card-item .card-link .last-card-little-font {
           font-size: 14px; }
-    .hr_container .hr-main .card-item_done {
-      -webkit-animation: 5s swap-color3 infinite;
-              animation: 5s swap-color3 infinite; }
+    .goosebumps_r_container .goosebumps_r-main .card-item_done {
+      -webkit-animation: 5s swap-color0 infinite;
+              animation: 5s swap-color0 infinite; }
 
-.hh_container {
+.goosebumps_e_container {
   min-height: 100vh;
   max-width: 100vw;
   overflow: hidden;
-  background: url(../images/hh-images/fone.jpg) no-repeat;
+  background: url(../images/index-images/fone1.jpg) no-repeat;
   background-size: 100% 100%;
-  background-attachment: fixed; }
-  .hh_container .header {
-    display: block;
-    min-width: 1500px; }
-    .hh_container .header .fixed {
-      position: fixed; }
-    .hh_container .header-image {
-      width: 250px;
-      height: 190px;
-      top: 0;
-      left: 0; }
-    .hh_container .header-link {
-      position: absolute;
-      display: -webkit-box;
-      display: -ms-flexbox;
-      display: flex;
-      -webkit-box-orient: vertical;
-      -webkit-box-direction: normal;
-          -ms-flex-direction: column;
-              flex-direction: column;
-      height: 45px;
-      -webkit-box-pack: justify;
-          -ms-flex-pack: justify;
-              justify-content: space-between;
-      top: 20px;
-      left: 160px; }
-      .hh_container .header-link a {
-        text-decoration: none;
-        font-size: 14px;
-        color: #caa5ca; }
-    .hh_container .header .item {
-      width: 250px;
-      display: inline-block; }
-      .hh_container .header .item img {
-        width: 100%;
-        height: 96.61px; }
-      .hh_container .header .item .header-image {
-        height: auto; }
-    .hh_container .header .item1 {
-      position: relative;
-      margin-left: 300px; }
-  .hh_container .hh-main {
-    margin-left: 300px;
-    display: grid;
-    grid-template-columns: repeat(4, 214px);
-    grid-column-gap: 45px;
-    grid-row-gap: 15px; }
-    .hh_container .hh-main .card-item {
-      width: 214px;
-      height: 200px;
-      border: 2px solid black;
-      padding: 5px;
-      background-color: white;
-      -webkit-box-sizing: border-box;
-              box-sizing: border-box; }
-      .hh_container .hh-main .card-item .card-image {
-        width: 200px; }
-      .hh_container .hh-main .card-item .card-image1 {
-        width: 100px;
-        height: 148px;
-        margin-left: 100px; }
-      .hh_container .hh-main .card-item .card-link {
-        text-decoration: none;
-        color: black; }
-        .hh_container .hh-main .card-item .card-link .card-image-block {
-          display: -webkit-box;
-          display: -ms-flexbox;
-          display: flex; }
-          .hh_container .hh-main .card-item .card-link .card-image-block .image-of-block {
-            width: 100px;
-            height: 148px; }
-          .hh_container .hh-main .card-item .card-link .card-image-block .image-of-block1 {
-            margin-left: 92px;
-            width: 8px;
-            height: 148px; }
-          .hh_container .hh-main .card-item .card-link .card-image-block .image-of-block2 {
-            width: 100px;
-            height: 148px; }
-        .hh_container .hh-main .card-item .card-link .last-card-little-font {
-          font-size: 14px; }
-    .hh_container .hh-main .card-item_done {
-      -webkit-animation: 5s swap-color4 infinite;
-              animation: 5s swap-color4 infinite; }
-
-.mw_container {
-  min-height: 100vh;
-  max-width: 100vw;
-  overflow: hidden;
-  background: url(../images/mw-images/fone.jpg) no-repeat;
-  background-size: 100% 100%;
-  background-attachment: fixed; }
-  .mw_container .header {
-    display: block;
-    min-width: 1500px; }
-    .mw_container .header .fixed {
-      position: fixed; }
-    .mw_container .header-image {
-      width: 250px;
-      height: 190px;
-      top: 0;
-      left: 0; }
-    .mw_container .header-link {
-      position: absolute;
-      display: -webkit-box;
-      display: -ms-flexbox;
-      display: flex;
-      -webkit-box-orient: vertical;
-      -webkit-box-direction: normal;
-          -ms-flex-direction: column;
-              flex-direction: column;
-      height: 45px;
-      -webkit-box-pack: justify;
-          -ms-flex-pack: justify;
-              justify-content: space-between;
-      top: 20px;
-      left: 160px; }
-      .mw_container .header-link a {
-        text-decoration: none;
-        font-size: 14px;
-        color: #caa5ca; }
-    .mw_container .header .item {
-      width: 250px;
-      display: inline-block; }
-      .mw_container .header .item img {
-        width: 100%;
-        height: 96.61px; }
-      .mw_container .header .item .header-image {
-        height: auto; }
-    .mw_container .header .item1 {
-      position: relative;
-      margin-left: 300px; }
-  .mw_container .mw-main {
-    margin-left: 300px;
-    display: grid;
-    grid-template-columns: repeat(4, 214px);
-    grid-column-gap: 45px;
-    grid-row-gap: 15px; }
-    .mw_container .mw-main .card-item {
-      width: 214px;
-      height: 200px;
-      border: 2px solid black;
-      padding: 5px;
-      background-color: white;
-      -webkit-box-sizing: border-box;
-              box-sizing: border-box; }
-      .mw_container .mw-main .card-item .card-image {
-        width: 200px; }
-      .mw_container .mw-main .card-item .card-image1 {
-        width: 100px;
-        height: 148px;
-        margin-left: 100px; }
-      .mw_container .mw-main .card-item .card-link {
-        text-decoration: none;
-        color: black; }
-        .mw_container .mw-main .card-item .card-link .card-image-block {
-          display: -webkit-box;
-          display: -ms-flexbox;
-          display: flex; }
-          .mw_container .mw-main .card-item .card-link .card-image-block .image-of-block {
-            width: 100px;
-            height: 148px; }
-          .mw_container .mw-main .card-item .card-link .card-image-block .image-of-block1 {
-            margin-left: 92px;
-            width: 8px;
-            height: 148px; }
-          .mw_container .mw-main .card-item .card-link .card-image-block .image-of-block2 {
-            width: 100px;
-            height: 148px; }
-        .mw_container .mw-main .card-item .card-link .last-card-little-font {
-          font-size: 14px; }
-    .mw_container .mw-main .card-item_done {
-      -webkit-animation: 5s swap-color5 infinite;
-              animation: 5s swap-color5 infinite; }
-
-.goosebumps_triple_header-body {
-  height: 100vh;
-  background: linear-gradient(45deg, #aeff17, black); }
-
-.goosebumps_triple_header_container .header {
-  display: block;
-  min-width: 1500px; }
-  .goosebumps_triple_header_container .header .fixed {
-    position: fixed;
-    top: 0;
-    left: 0; }
-  .goosebumps_triple_header_container .header-image {
-    width: 250px;
-    height: 190px; }
-  .goosebumps_triple_header_container .header-link {
-    position: absolute;
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-    -webkit-box-orient: vertical;
-    -webkit-box-direction: normal;
-        -ms-flex-direction: column;
-            flex-direction: column;
-    height: 45px;
-    -webkit-box-pack: justify;
-        -ms-flex-pack: justify;
-            justify-content: space-between;
-    top: 20px;
-    left: 160px; }
-    .goosebumps_triple_header_container .header-link a {
-      text-decoration: none;
-      font-size: 14px;
-      color: #caa5ca; }
-  .goosebumps_triple_header_container .header .item {
-    width: 250px;
-    display: inline-block; }
-    .goosebumps_triple_header_container .header .item img {
-      width: 100%;
-      height: 96.61px; }
-    .goosebumps_triple_header_container .header .item .header-image {
-      height: auto; }
-  .goosebumps_triple_header_container .header .item1 {
-    position: relative;
-    margin-left: 300px; }
-
-.goosebumps_triple_header_container .goosebumps_triple_header-main {
-  margin: 0 0 0 500px;
-  padding-top: 20px;
+  background-attachment: fixed;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -1330,68 +174,16 @@
   -webkit-box-direction: normal;
       -ms-flex-direction: column;
           flex-direction: column; }
-  .goosebumps_triple_header_container .goosebumps_triple_header-main .card-item {
-    margin-top: 10px;
-    width: 264px;
-    height: 380px;
-    border: 2px solid black;
-    padding: 5px;
-    background-color: white;
-    -webkit-box-sizing: border-box;
-            box-sizing: border-box; }
-    .goosebumps_triple_header_container .goosebumps_triple_header-main .card-item .card-image1 {
-      display: block;
-      width: 250px;
-      height: 350px; }
-    .goosebumps_triple_header_container .goosebumps_triple_header-main .card-item .card-link {
-      text-decoration: none;
-      color: black; }
-  .goosebumps_triple_header_container .goosebumps_triple_header-main .card-item_done {
-    -webkit-animation: 5s swap-color infinite;
-            animation: 5s swap-color infinite; }
-
-.goosebumps_triple_header_container .goosebumps_triple_header-disc {
-  position: absolute;
-  left: 900px;
-  top: 20px; }
-  .goosebumps_triple_header_container .goosebumps_triple_header-disc .card-item {
-    margin-top: 10px;
-    width: 264px;
-    height: 380px;
-    border: 2px solid black;
-    padding: 5px;
-    background-color: white;
-    -webkit-box-sizing: border-box;
-            box-sizing: border-box; }
-    .goosebumps_triple_header_container .goosebumps_triple_header-disc .card-item .card-image1 {
-      display: block;
-      width: 250px;
-      height: 350px; }
-    .goosebumps_triple_header_container .goosebumps_triple_header-disc .card-item .card-link {
-      text-decoration: none;
-      color: black; }
-  .goosebumps_triple_header_container .goosebumps_triple_header-disc .card-item_done {
-    -webkit-animation: 5s swap-color infinite;
-            animation: 5s swap-color infinite; }
-
-.gr2_container {
-  min-height: 100vh;
-  max-width: 100vw;
-  overflow: hidden;
-  background: url(../images/gr2-images/fone.jpg) no-repeat;
-  background-size: 100% 100%;
-  background-attachment: fixed; }
-  .gr2_container .header {
-    display: block;
-    min-width: 1500px; }
-    .gr2_container .header .fixed {
+  .goosebumps_e_container .header {
+    display: block; }
+    .goosebumps_e_container .header .fixed {
       position: fixed; }
-    .gr2_container .header-image {
+    .goosebumps_e_container .header-image {
       width: 250px;
       height: 190px;
       top: 0;
       left: 0; }
-    .gr2_container .header-link {
+    .goosebumps_e_container .header-link {
       position: absolute;
       display: -webkit-box;
       display: -ms-flexbox;
@@ -1406,28 +198,138 @@
               justify-content: space-between;
       top: 20px;
       left: 160px; }
-      .gr2_container .header-link a {
+      .goosebumps_e_container .header-link a {
         text-decoration: none;
         font-size: 14px;
         color: #caa5ca; }
-    .gr2_container .header .item {
+    .goosebumps_e_container .header .item {
       width: 250px;
       display: inline-block; }
-      .gr2_container .header .item img {
+      .goosebumps_e_container .header .item img {
         width: 100%;
         height: 96.61px; }
-      .gr2_container .header .item .header-image {
+      .goosebumps_e_container .header .item .image2 {
+        width: 230px;
+        height: 100px; }
+      .goosebumps_e_container .header .item .header-image {
         height: auto; }
-    .gr2_container .header .item1 {
+    .goosebumps_e_container .header .item1 {
       position: relative;
       margin-left: 300px; }
-  .gr2_container .gr2-main {
+  .goosebumps_e_container .goosebumps_e-main {
     margin-left: 300px;
     display: grid;
     grid-template-columns: repeat(4, 214px);
     grid-column-gap: 45px;
     grid-row-gap: 15px; }
-    .gr2_container .gr2-main .card-item {
+    .goosebumps_e_container .goosebumps_e-main .card-item {
+      width: 214px;
+      height: 282px;
+      border: 2px solid black;
+      padding: 5px;
+      -webkit-box-sizing: border-box;
+              box-sizing: border-box;
+      background-color: rgba(29, 129, 51, 0.5); }
+      .goosebumps_e_container .goosebumps_e-main .card-item .card-image1 {
+        width: 200px;
+        height: 268px;
+        margin-right: 100px; }
+      .goosebumps_e_container .goosebumps_e-main .card-item .card-link {
+        text-decoration: none;
+        color: black; }
+        .goosebumps_e_container .goosebumps_e-main .card-item .card-link .card-image-block {
+          display: -webkit-box;
+          display: -ms-flexbox;
+          display: flex; }
+          .goosebumps_e_container .goosebumps_e-main .card-item .card-link .card-image-block .image-of-block {
+            width: 100px;
+            height: 148px; }
+  .goosebumps_e_container .special-edition-image {
+    width: 150px;
+    height: 25px;
+    margin: 20px 0 0 302px; }
+  .goosebumps_e_container .special_edition_series {
+    margin: 20px 0 40px 300px;
+    display: grid;
+    grid-template-columns: repeat(4, 214px);
+    grid-column-gap: 45px;
+    grid-row-gap: 15px; }
+    .goosebumps_e_container .special_edition_series .card-item {
+      width: 214px;
+      height: 200px;
+      border: 2px solid black;
+      padding: 5px;
+      -webkit-box-sizing: border-box;
+              box-sizing: border-box; }
+      .goosebumps_e_container .special_edition_series .card-item .card-image1 {
+        width: 100px;
+        height: 148px;
+        margin-right: 100px; }
+      .goosebumps_e_container .special_edition_series .card-item .card-link {
+        text-decoration: none;
+        color: black; }
+        .goosebumps_e_container .special_edition_series .card-item .card-link .card-image-block {
+          display: -webkit-box;
+          display: -ms-flexbox;
+          display: flex; }
+          .goosebumps_e_container .special_edition_series .card-item .card-link .card-image-block .image-of-block {
+            width: 100px;
+            height: 148px; }
+
+.goosebumps2_r_container {
+  min-height: 100vh;
+  max-width: 100vw;
+  overflow: hidden;
+  background: url(../images/index-images/fone2.jpg) no-repeat;
+  background-size: 100% 100%;
+  background-attachment: fixed; }
+  .goosebumps2_r_container .header {
+    display: block;
+    min-width: 1500px; }
+    .goosebumps2_r_container .header .fixed {
+      position: fixed; }
+    .goosebumps2_r_container .header-image {
+      width: 250px;
+      height: 190px;
+      top: 0;
+      left: 0; }
+    .goosebumps2_r_container .header-link {
+      position: absolute;
+      display: -webkit-box;
+      display: -ms-flexbox;
+      display: flex;
+      -webkit-box-orient: vertical;
+      -webkit-box-direction: normal;
+          -ms-flex-direction: column;
+              flex-direction: column;
+      height: 45px;
+      -webkit-box-pack: justify;
+          -ms-flex-pack: justify;
+              justify-content: space-between;
+      top: 20px;
+      left: 160px; }
+      .goosebumps2_r_container .header-link a {
+        text-decoration: none;
+        font-size: 14px;
+        color: #caa5ca; }
+    .goosebumps2_r_container .header .item {
+      width: 250px;
+      display: inline-block; }
+      .goosebumps2_r_container .header .item img {
+        width: 100%;
+        height: 96.61px; }
+      .goosebumps2_r_container .header .item .header-image {
+        height: auto; }
+    .goosebumps2_r_container .header .item1 {
+      position: relative;
+      margin-left: 300px; }
+  .goosebumps2_r_container .goosebumps2_r-main {
+    margin-left: 300px;
+    display: grid;
+    grid-template-columns: repeat(4, 214px);
+    grid-column-gap: 45px;
+    grid-row-gap: 15px; }
+    .goosebumps2_r_container .goosebumps2_r-main .card-item {
       width: 214px;
       height: 200px;
       border: 2px solid black;
@@ -1435,47 +337,724 @@
       background-color: white;
       -webkit-box-sizing: border-box;
               box-sizing: border-box; }
-      .gr2_container .gr2-main .card-item .card-image {
+      .goosebumps2_r_container .goosebumps2_r-main .card-item .card-image {
         width: 200px; }
-      .gr2_container .gr2-main .card-item .card-image1 {
+      .goosebumps2_r_container .goosebumps2_r-main .card-item .card-image1 {
         width: 100px;
         height: 148px;
         margin-left: 100px; }
-      .gr2_container .gr2-main .card-item .card-link {
+      .goosebumps2_r_container .goosebumps2_r-main .card-item .card-link {
         font-size: 14.5px;
         text-decoration: none;
         color: black; }
-        .gr2_container .gr2-main .card-item .card-link .card-image-block {
+        .goosebumps2_r_container .goosebumps2_r-main .card-item .card-link .card-image-block {
           display: -webkit-box;
           display: -ms-flexbox;
           display: flex; }
-          .gr2_container .gr2-main .card-item .card-link .card-image-block .image-of-block {
+          .goosebumps2_r_container .goosebumps2_r-main .card-item .card-link .card-image-block .image-of-block {
             width: 100px;
             height: 148px; }
-          .gr2_container .gr2-main .card-item .card-link .card-image-block .image-of-block1 {
+          .goosebumps2_r_container .goosebumps2_r-main .card-item .card-link .card-image-block .image-of-block1 {
             margin-left: 92px;
             width: 8px;
             height: 148px; }
-          .gr2_container .gr2-main .card-item .card-link .card-image-block .image-of-block2 {
+          .goosebumps2_r_container .goosebumps2_r-main .card-item .card-link .card-image-block .image-of-block2 {
             width: 100px;
             height: 148px; }
-        .gr2_container .gr2-main .card-item .card-link .last-card-little-font {
+        .goosebumps2_r_container .goosebumps2_r-main .card-item .card-link .last-card-little-font {
           font-size: 14px; }
-    .gr2_container .gr2-main .card-item_done {
+    .goosebumps2_r_container .goosebumps2_r-main .card-item_done {
       -webkit-animation: 5s swap-color1 infinite;
               animation: 5s swap-color1 infinite; }
 
-.gsw_container .header {
+.reader_beware_e_container {
+  min-height: 100vh;
+  max-width: 100vw;
+  overflow: hidden;
+  background: url(../images/index-images/fone2.jpg) no-repeat;
+  background-size: 100% 100%;
+  background-attachment: fixed;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column; }
+  .reader_beware_e_container .header {
+    display: block; }
+    .reader_beware_e_container .header .fixed {
+      position: fixed; }
+    .reader_beware_e_container .header-image {
+      width: 250px;
+      height: 190px;
+      top: 0;
+      left: 0; }
+    .reader_beware_e_container .header-link {
+      position: absolute;
+      display: -webkit-box;
+      display: -ms-flexbox;
+      display: flex;
+      -webkit-box-orient: vertical;
+      -webkit-box-direction: normal;
+          -ms-flex-direction: column;
+              flex-direction: column;
+      height: 45px;
+      -webkit-box-pack: justify;
+          -ms-flex-pack: justify;
+              justify-content: space-between;
+      top: 20px;
+      left: 160px; }
+      .reader_beware_e_container .header-link a {
+        text-decoration: none;
+        font-size: 14px;
+        color: #caa5ca; }
+    .reader_beware_e_container .header .item {
+      width: 250px;
+      display: inline-block; }
+      .reader_beware_e_container .header .item img {
+        width: 100%;
+        height: 96.61px; }
+      .reader_beware_e_container .header .item .image2 {
+        width: 230px;
+        height: 100px; }
+      .reader_beware_e_container .header .item .header-image {
+        height: auto; }
+    .reader_beware_e_container .header .item1 {
+      position: relative;
+      margin-left: 300px; }
+  .reader_beware_e_container .reader_beware_e-main {
+    margin-left: 300px;
+    display: grid;
+    grid-template-columns: repeat(4, 214px);
+    grid-column-gap: 45px;
+    grid-row-gap: 15px; }
+    .reader_beware_e_container .reader_beware_e-main .card-item {
+      width: 214px;
+      height: 282px;
+      border: 2px solid black;
+      padding: 5px;
+      -webkit-box-sizing: border-box;
+              box-sizing: border-box; }
+      .reader_beware_e_container .reader_beware_e-main .card-item .card-image1 {
+        width: 200px;
+        height: 268px;
+        margin-right: 100px; }
+      .reader_beware_e_container .reader_beware_e-main .card-item .card-link {
+        text-decoration: none;
+        color: black; }
+        .reader_beware_e_container .reader_beware_e-main .card-item .card-link .card-image-block {
+          display: -webkit-box;
+          display: -ms-flexbox;
+          display: flex; }
+          .reader_beware_e_container .reader_beware_e-main .card-item .card-link .card-image-block .image-of-block {
+            width: 100px;
+            height: 148px; }
+          .reader_beware_e_container .reader_beware_e-main .card-item .card-link .card-image-block .image-of-block1 {
+            margin-left: 92px;
+            width: 8px;
+            height: 148px; }
+          .reader_beware_e_container .reader_beware_e-main .card-item .card-link .card-image-block .image-of-block2 {
+            width: 100px;
+            height: 148px; }
+  .reader_beware_e_container .special-edition-image {
+    width: 150px;
+    height: 25px;
+    margin: 20px 0 0 302px; }
+  .reader_beware_e_container .special_edition_series {
+    margin: 20px 0 40px 300px;
+    display: grid;
+    grid-template-columns: repeat(4, 214px);
+    grid-column-gap: 45px;
+    grid-row-gap: 15px; }
+    .reader_beware_e_container .special_edition_series .card-item {
+      width: 214px;
+      height: 282x;
+      border: 2px solid black;
+      padding: 5px;
+      -webkit-box-sizing: border-box;
+              box-sizing: border-box; }
+      .reader_beware_e_container .special_edition_series .card-item .card-image1 {
+        width: 200px;
+        height: 268px;
+        margin-right: 100px; }
+      .reader_beware_e_container .special_edition_series .card-item .card-link {
+        text-decoration: none;
+        color: black; }
+        .reader_beware_e_container .special_edition_series .card-item .card-link .card-image-block {
+          display: -webkit-box;
+          display: -ms-flexbox;
+          display: flex; }
+          .reader_beware_e_container .special_edition_series .card-item .card-link .card-image-block .image-of-block {
+            width: 100px;
+            height: 148px; }
+
+.horrorland_r_container {
+  min-height: 100vh;
+  max-width: 100vw;
+  overflow: hidden;
+  background: url(../images/index-images/fone4.jpg) no-repeat;
+  background-size: 100% 100%;
+  background-attachment: fixed; }
+  .horrorland_r_container .header {
+    display: block;
+    min-width: 1500px; }
+    .horrorland_r_container .header .fixed {
+      position: fixed; }
+    .horrorland_r_container .header-image {
+      width: 250px;
+      height: 190px;
+      top: 0;
+      left: 0; }
+    .horrorland_r_container .header-link {
+      position: absolute;
+      display: -webkit-box;
+      display: -ms-flexbox;
+      display: flex;
+      -webkit-box-orient: vertical;
+      -webkit-box-direction: normal;
+          -ms-flex-direction: column;
+              flex-direction: column;
+      height: 45px;
+      -webkit-box-pack: justify;
+          -ms-flex-pack: justify;
+              justify-content: space-between;
+      top: 20px;
+      left: 160px; }
+      .horrorland_r_container .header-link a {
+        text-decoration: none;
+        font-size: 14px;
+        color: #caa5ca; }
+    .horrorland_r_container .header .item {
+      width: 250px;
+      display: inline-block; }
+      .horrorland_r_container .header .item img {
+        width: 100%;
+        height: 96.61px; }
+      .horrorland_r_container .header .item .header-image {
+        height: auto; }
+    .horrorland_r_container .header .item1 {
+      position: relative;
+      margin-left: 300px; }
+  .horrorland_r_container .horrorland_r-main {
+    margin-left: 300px;
+    display: grid;
+    grid-template-columns: repeat(4, 214px);
+    grid-column-gap: 45px;
+    grid-row-gap: 15px; }
+    .horrorland_r_container .horrorland_r-main .card-item {
+      width: 214px;
+      height: 200px;
+      border: 2px solid black;
+      padding: 5px;
+      background-color: white;
+      -webkit-box-sizing: border-box;
+              box-sizing: border-box; }
+      .horrorland_r_container .horrorland_r-main .card-item .card-image {
+        width: 200px; }
+      .horrorland_r_container .horrorland_r-main .card-item .card-image1 {
+        width: 100px;
+        height: 148px;
+        margin-left: 100px; }
+      .horrorland_r_container .horrorland_r-main .card-item .card-link {
+        text-decoration: none;
+        color: black; }
+        .horrorland_r_container .horrorland_r-main .card-item .card-link .card-image-block {
+          display: -webkit-box;
+          display: -ms-flexbox;
+          display: flex; }
+          .horrorland_r_container .horrorland_r-main .card-item .card-link .card-image-block .image-of-block {
+            width: 100px;
+            height: 148px; }
+          .horrorland_r_container .horrorland_r-main .card-item .card-link .card-image-block .image-of-block1 {
+            margin-left: 92px;
+            width: 8px;
+            height: 148px; }
+          .horrorland_r_container .horrorland_r-main .card-item .card-link .card-image-block .image-of-block2 {
+            width: 100px;
+            height: 148px; }
+        .horrorland_r_container .horrorland_r-main .card-item .card-link .last-card-little-font {
+          font-size: 14px; }
+    .horrorland_r_container .horrorland_r-main .card-item_done {
+      -webkit-animation: 5s swap-color3 infinite;
+              animation: 5s swap-color3 infinite; }
+
+.horrorland_e_container {
+  min-height: 100vh;
+  max-width: 100vw;
+  overflow: hidden;
+  background: url(../images/index-images/fone4.jpg) no-repeat;
+  background-size: 100% 100%;
+  background-attachment: fixed;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column; }
+  .horrorland_e_container .header {
+    display: block; }
+    .horrorland_e_container .header .fixed {
+      position: fixed; }
+    .horrorland_e_container .header-image {
+      width: 250px;
+      height: 190px;
+      top: 0;
+      left: 0; }
+    .horrorland_e_container .header-link {
+      position: absolute;
+      display: -webkit-box;
+      display: -ms-flexbox;
+      display: flex;
+      -webkit-box-orient: vertical;
+      -webkit-box-direction: normal;
+          -ms-flex-direction: column;
+              flex-direction: column;
+      height: 45px;
+      -webkit-box-pack: justify;
+          -ms-flex-pack: justify;
+              justify-content: space-between;
+      top: 20px;
+      left: 160px; }
+      .horrorland_e_container .header-link a {
+        text-decoration: none;
+        font-size: 14px;
+        color: #caa5ca; }
+    .horrorland_e_container .header .item {
+      display: inline-block;
+      width: 250px; }
+      .horrorland_e_container .header .item img {
+        width: 100%;
+        height: 96.61px; }
+      .horrorland_e_container .header .item .image2 {
+        width: 230px;
+        height: 100px; }
+      .horrorland_e_container .header .item .header-image {
+        height: auto; }
+    .horrorland_e_container .header .item1 {
+      position: relative;
+      margin-left: 300px; }
+  .horrorland_e_container .horrorland_e-main {
+    margin-left: 300px;
+    display: grid;
+    grid-template-columns: repeat(4, 214px);
+    grid-column-gap: 45px;
+    grid-row-gap: 15px; }
+    .horrorland_e_container .horrorland_e-main .card-item {
+      width: 214px;
+      height: 282px;
+      border: 2px solid black;
+      padding: 5px;
+      -webkit-box-sizing: border-box;
+              box-sizing: border-box; }
+      .horrorland_e_container .horrorland_e-main .card-item .card-image1 {
+        width: 200px;
+        height: 268px;
+        margin-right: 100px; }
+      .horrorland_e_container .horrorland_e-main .card-item .card-link {
+        text-decoration: none;
+        color: black;
+        font-size: 15px; }
+        .horrorland_e_container .horrorland_e-main .card-item .card-link .card-image-block {
+          display: -webkit-box;
+          display: -ms-flexbox;
+          display: flex; }
+          .horrorland_e_container .horrorland_e-main .card-item .card-link .card-image-block .image-of-block {
+            width: 100px;
+            height: 148px; }
+
+.halllofhorrors_r_container {
+  min-height: 100vh;
+  max-width: 100vw;
+  overflow: hidden;
+  background: url(../images/index-images/fone5.jpg) no-repeat;
+  background-size: 100% 100%;
+  background-attachment: fixed; }
+  .halllofhorrors_r_container .header {
+    display: block;
+    min-width: 1500px; }
+    .halllofhorrors_r_container .header .fixed {
+      position: fixed; }
+    .halllofhorrors_r_container .header-image {
+      width: 250px;
+      height: 190px;
+      top: 0;
+      left: 0; }
+    .halllofhorrors_r_container .header-link {
+      position: absolute;
+      display: -webkit-box;
+      display: -ms-flexbox;
+      display: flex;
+      -webkit-box-orient: vertical;
+      -webkit-box-direction: normal;
+          -ms-flex-direction: column;
+              flex-direction: column;
+      height: 45px;
+      -webkit-box-pack: justify;
+          -ms-flex-pack: justify;
+              justify-content: space-between;
+      top: 20px;
+      left: 160px; }
+      .halllofhorrors_r_container .header-link a {
+        text-decoration: none;
+        font-size: 14px;
+        color: #caa5ca; }
+    .halllofhorrors_r_container .header .item {
+      width: 250px;
+      display: inline-block; }
+      .halllofhorrors_r_container .header .item img {
+        width: 100%;
+        height: 96.61px; }
+      .halllofhorrors_r_container .header .item .header-image {
+        height: auto; }
+    .halllofhorrors_r_container .header .item1 {
+      position: relative;
+      margin-left: 300px; }
+  .halllofhorrors_r_container .halllofhorrors_r-main {
+    margin-left: 300px;
+    display: grid;
+    grid-template-columns: repeat(4, 214px);
+    grid-column-gap: 45px;
+    grid-row-gap: 15px; }
+    .halllofhorrors_r_container .halllofhorrors_r-main .card-item {
+      width: 214px;
+      height: 200px;
+      border: 2px solid black;
+      padding: 5px;
+      background-color: white;
+      -webkit-box-sizing: border-box;
+              box-sizing: border-box; }
+      .halllofhorrors_r_container .halllofhorrors_r-main .card-item .card-image {
+        width: 200px; }
+      .halllofhorrors_r_container .halllofhorrors_r-main .card-item .card-image1 {
+        width: 100px;
+        height: 148px;
+        margin-left: 100px; }
+      .halllofhorrors_r_container .halllofhorrors_r-main .card-item .card-link {
+        text-decoration: none;
+        color: black; }
+        .halllofhorrors_r_container .halllofhorrors_r-main .card-item .card-link .card-image-block {
+          display: -webkit-box;
+          display: -ms-flexbox;
+          display: flex; }
+          .halllofhorrors_r_container .halllofhorrors_r-main .card-item .card-link .card-image-block .image-of-block {
+            width: 100px;
+            height: 148px; }
+          .halllofhorrors_r_container .halllofhorrors_r-main .card-item .card-link .card-image-block .image-of-block1 {
+            margin-left: 92px;
+            width: 8px;
+            height: 148px; }
+          .halllofhorrors_r_container .halllofhorrors_r-main .card-item .card-link .card-image-block .image-of-block2 {
+            width: 100px;
+            height: 148px; }
+        .halllofhorrors_r_container .halllofhorrors_r-main .card-item .card-link .last-card-little-font {
+          font-size: 14px; }
+    .halllofhorrors_r_container .halllofhorrors_r-main .card-item_done {
+      -webkit-animation: 5s swap-color4 infinite;
+              animation: 5s swap-color4 infinite; }
+
+.halllofhorrors_e_container {
+  min-height: 100vh;
+  max-width: 100vw;
+  overflow: hidden;
+  background: url(../images/index-images/fone5.jpg) no-repeat;
+  background-size: 100% 100%;
+  background-attachment: fixed;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column; }
+  .halllofhorrors_e_container .header {
+    display: block; }
+    .halllofhorrors_e_container .header .fixed {
+      position: fixed; }
+    .halllofhorrors_e_container .header-image {
+      width: 250px;
+      height: 190px;
+      top: 0;
+      left: 0; }
+    .halllofhorrors_e_container .header-link {
+      position: absolute;
+      display: -webkit-box;
+      display: -ms-flexbox;
+      display: flex;
+      -webkit-box-orient: vertical;
+      -webkit-box-direction: normal;
+          -ms-flex-direction: column;
+              flex-direction: column;
+      height: 45px;
+      -webkit-box-pack: justify;
+          -ms-flex-pack: justify;
+              justify-content: space-between;
+      top: 20px;
+      left: 160px; }
+      .halllofhorrors_e_container .header-link a {
+        text-decoration: none;
+        font-size: 14px;
+        color: #caa5ca; }
+    .halllofhorrors_e_container .header .item {
+      display: inline-block;
+      width: 250px; }
+      .halllofhorrors_e_container .header .item img {
+        width: 100%;
+        height: 96.61px; }
+      .halllofhorrors_e_container .header .item .image2 {
+        width: 230px;
+        height: 100px; }
+      .halllofhorrors_e_container .header .item .header-image {
+        height: auto; }
+    .halllofhorrors_e_container .header .item1 {
+      position: relative;
+      margin-left: 300px; }
+  .halllofhorrors_e_container .halllofhorrors_e-main {
+    margin-left: 300px;
+    display: grid;
+    grid-template-columns: repeat(4, 214px);
+    grid-column-gap: 45px;
+    grid-row-gap: 15px; }
+    .halllofhorrors_e_container .halllofhorrors_e-main .card-item {
+      width: 214px;
+      height: 282px;
+      border: 2px solid black;
+      padding: 5px;
+      -webkit-box-sizing: border-box;
+              box-sizing: border-box; }
+      .halllofhorrors_e_container .halllofhorrors_e-main .card-item .card-image1 {
+        width: 200px;
+        height: 268px;
+        margin-right: 100px; }
+      .halllofhorrors_e_container .halllofhorrors_e-main .card-item .card-link {
+        text-decoration: none;
+        color: black;
+        font-size: 15px; }
+        .halllofhorrors_e_container .halllofhorrors_e-main .card-item .card-link .card-image-block {
+          display: -webkit-box;
+          display: -ms-flexbox;
+          display: flex; }
+          .halllofhorrors_e_container .halllofhorrors_e-main .card-item .card-link .card-image-block .image-of-block {
+            width: 100px;
+            height: 148px; }
+
+.mostwanted_r_container {
+  min-height: 100vh;
+  max-width: 100vw;
+  overflow: hidden;
+  background: url(../images/index-images/fone6.jpg) no-repeat;
+  background-size: 100% 100%;
+  background-attachment: fixed; }
+  .mostwanted_r_container .header {
+    display: block;
+    min-width: 1500px; }
+    .mostwanted_r_container .header .fixed {
+      position: fixed; }
+    .mostwanted_r_container .header-image {
+      width: 250px;
+      height: 190px;
+      top: 0;
+      left: 0; }
+    .mostwanted_r_container .header-link {
+      position: absolute;
+      display: -webkit-box;
+      display: -ms-flexbox;
+      display: flex;
+      -webkit-box-orient: vertical;
+      -webkit-box-direction: normal;
+          -ms-flex-direction: column;
+              flex-direction: column;
+      height: 45px;
+      -webkit-box-pack: justify;
+          -ms-flex-pack: justify;
+              justify-content: space-between;
+      top: 20px;
+      left: 160px; }
+      .mostwanted_r_container .header-link a {
+        text-decoration: none;
+        font-size: 14px;
+        color: #caa5ca; }
+    .mostwanted_r_container .header .item {
+      width: 250px;
+      display: inline-block; }
+      .mostwanted_r_container .header .item img {
+        width: 100%;
+        height: 96.61px; }
+      .mostwanted_r_container .header .item .header-image {
+        height: auto; }
+    .mostwanted_r_container .header .item1 {
+      position: relative;
+      margin-left: 300px; }
+  .mostwanted_r_container .mostwanted_r-main {
+    margin-left: 300px;
+    display: grid;
+    grid-template-columns: repeat(4, 214px);
+    grid-column-gap: 45px;
+    grid-row-gap: 15px; }
+    .mostwanted_r_container .mostwanted_r-main .card-item {
+      width: 214px;
+      height: 200px;
+      border: 2px solid black;
+      padding: 5px;
+      background-color: white;
+      -webkit-box-sizing: border-box;
+              box-sizing: border-box; }
+      .mostwanted_r_container .mostwanted_r-main .card-item .card-image {
+        width: 200px; }
+      .mostwanted_r_container .mostwanted_r-main .card-item .card-image1 {
+        width: 100px;
+        height: 148px;
+        margin-left: 100px; }
+      .mostwanted_r_container .mostwanted_r-main .card-item .card-link {
+        text-decoration: none;
+        color: black; }
+        .mostwanted_r_container .mostwanted_r-main .card-item .card-link .card-image-block {
+          display: -webkit-box;
+          display: -ms-flexbox;
+          display: flex; }
+          .mostwanted_r_container .mostwanted_r-main .card-item .card-link .card-image-block .image-of-block {
+            width: 100px;
+            height: 148px; }
+          .mostwanted_r_container .mostwanted_r-main .card-item .card-link .card-image-block .image-of-block1 {
+            margin-left: 92px;
+            width: 8px;
+            height: 148px; }
+          .mostwanted_r_container .mostwanted_r-main .card-item .card-link .card-image-block .image-of-block2 {
+            width: 100px;
+            height: 148px; }
+        .mostwanted_r_container .mostwanted_r-main .card-item .card-link .last-card-little-font {
+          font-size: 14px; }
+    .mostwanted_r_container .mostwanted_r-main .card-item_done {
+      -webkit-animation: 5s swap-color5 infinite;
+              animation: 5s swap-color5 infinite; }
+
+.mostwanted_e_container {
+  min-height: 100vh;
+  max-width: 100vw;
+  overflow: hidden;
+  background: url(../images/index-images/fone6.jpg) no-repeat;
+  background-size: 100% 100%;
+  background-attachment: fixed;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column; }
+  .mostwanted_e_container .header {
+    display: block; }
+    .mostwanted_e_container .header .fixed {
+      position: fixed; }
+    .mostwanted_e_container .header-image {
+      width: 250px;
+      height: 190px;
+      top: 0;
+      left: 0; }
+    .mostwanted_e_container .header-link {
+      position: absolute;
+      display: -webkit-box;
+      display: -ms-flexbox;
+      display: flex;
+      -webkit-box-orient: vertical;
+      -webkit-box-direction: normal;
+          -ms-flex-direction: column;
+              flex-direction: column;
+      height: 45px;
+      -webkit-box-pack: justify;
+          -ms-flex-pack: justify;
+              justify-content: space-between;
+      top: 20px;
+      left: 160px; }
+      .mostwanted_e_container .header-link a {
+        text-decoration: none;
+        font-size: 14px;
+        color: #caa5ca; }
+    .mostwanted_e_container .header .item {
+      width: 250px;
+      display: inline-block; }
+      .mostwanted_e_container .header .item img {
+        width: 100%;
+        height: 96.61px; }
+      .mostwanted_e_container .header .item .image2 {
+        width: 230px;
+        height: 100px; }
+      .mostwanted_e_container .header .item .header-image {
+        height: auto; }
+    .mostwanted_e_container .header .item1 {
+      position: relative;
+      margin-left: 300px; }
+  .mostwanted_e_container .mostwanted_e-main {
+    margin-left: 300px;
+    display: grid;
+    grid-template-columns: repeat(4, 214px);
+    grid-column-gap: 45px;
+    grid-row-gap: 15px; }
+    .mostwanted_e_container .mostwanted_e-main .card-item {
+      width: 214px;
+      height: 282px;
+      border: 2px solid black;
+      padding: 5px;
+      -webkit-box-sizing: border-box;
+              box-sizing: border-box; }
+      .mostwanted_e_container .mostwanted_e-main .card-item .card-image1 {
+        width: 200px;
+        height: 268px;
+        margin-right: 100px; }
+      .mostwanted_e_container .mostwanted_e-main .card-item .card-link {
+        text-decoration: none;
+        color: black; }
+        .mostwanted_e_container .mostwanted_e-main .card-item .card-link .card-image-block {
+          display: -webkit-box;
+          display: -ms-flexbox;
+          display: flex; }
+          .mostwanted_e_container .mostwanted_e-main .card-item .card-link .card-image-block .image-of-block {
+            width: 100px;
+            height: 148px; }
+  .mostwanted_e_container .special-edition-image {
+    width: 150px;
+    height: 25px;
+    margin: 20px 0 0 302px; }
+  .mostwanted_e_container .special_edition_series {
+    margin: 20px 0 40px 300px;
+    display: grid;
+    grid-template-columns: repeat(4, 214px);
+    grid-column-gap: 45px;
+    grid-row-gap: 15px; }
+    .mostwanted_e_container .special_edition_series .card-item {
+      width: 214px;
+      height: 282px;
+      border: 2px solid black;
+      padding: 5px;
+      -webkit-box-sizing: border-box;
+              box-sizing: border-box; }
+      .mostwanted_e_container .special_edition_series .card-item .card-image1 {
+        width: 200px;
+        height: 268px;
+        margin-right: 100px; }
+      .mostwanted_e_container .special_edition_series .card-item .card-link {
+        text-decoration: none;
+        color: black; }
+        .mostwanted_e_container .special_edition_series .card-item .card-link .card-image-block {
+          display: -webkit-box;
+          display: -ms-flexbox;
+          display: flex; }
+          .mostwanted_e_container .special_edition_series .card-item .card-link .card-image-block .image-of-block {
+            width: 100px;
+            height: 148px; }
+
+.slappyworld_r_container .header {
   display: block;
   min-width: 1500px; }
-  .gsw_container .header .fixed {
+  .slappyworld_r_container .header .fixed {
     position: fixed; }
-  .gsw_container .header-image {
+  .slappyworld_r_container .header-image {
     width: 250px;
     height: 190px;
     top: 0;
     left: 0; }
-  .gsw_container .header-link {
+  .slappyworld_r_container .header-link {
     position: absolute;
     display: -webkit-box;
     display: -ms-flexbox;
@@ -1490,29 +1069,29 @@
             justify-content: space-between;
     top: 20px;
     left: 160px; }
-    .gsw_container .header-link a {
+    .slappyworld_r_container .header-link a {
       text-decoration: none;
       font-size: 14px;
       color: #caa5ca; }
-  .gsw_container .header .item {
+  .slappyworld_r_container .header .item {
     width: 250px;
     display: inline-block; }
-    .gsw_container .header .item img {
+    .slappyworld_r_container .header .item img {
       width: 100%;
       height: 96.61px; }
-    .gsw_container .header .item .header-image {
+    .slappyworld_r_container .header .item .header-image {
       height: auto; }
-  .gsw_container .header .item1 {
+  .slappyworld_r_container .header .item1 {
     position: relative;
     margin-left: 300px; }
 
-.gsw_container .gsw-main {
+.slappyworld_r_container .slappyworld_r-main {
   margin-left: 300px;
   display: grid;
   grid-template-columns: repeat(4, 214px);
   grid-column-gap: 45px;
   grid-row-gap: 15px; }
-  .gsw_container .gsw-main .card-item {
+  .slappyworld_r_container .slappyworld_r-main .card-item {
     width: 214px;
     height: 200px;
     border: 2px solid black;
@@ -1520,250 +1099,263 @@
     background-color: white;
     -webkit-box-sizing: border-box;
             box-sizing: border-box; }
-    .gsw_container .gsw-main .card-item .card-image {
+    .slappyworld_r_container .slappyworld_r-main .card-item .card-image {
       width: 200px; }
-    .gsw_container .gsw-main .card-item .card-image1 {
+    .slappyworld_r_container .slappyworld_r-main .card-item .card-image1 {
       width: 100px;
       height: 148px;
       margin-left: 100px; }
-    .gsw_container .gsw-main .card-item .card-link {
+    .slappyworld_r_container .slappyworld_r-main .card-item .card-link {
       text-decoration: none;
       color: black; }
-      .gsw_container .gsw-main .card-item .card-link .card-image-block {
+      .slappyworld_r_container .slappyworld_r-main .card-item .card-link .card-image-block {
         display: -webkit-box;
         display: -ms-flexbox;
         display: flex; }
-        .gsw_container .gsw-main .card-item .card-link .card-image-block .image-of-block {
+        .slappyworld_r_container .slappyworld_r-main .card-item .card-link .card-image-block .image-of-block {
           width: 100px;
           height: 148px; }
-        .gsw_container .gsw-main .card-item .card-link .card-image-block .image-of-block1 {
+        .slappyworld_r_container .slappyworld_r-main .card-item .card-link .card-image-block .image-of-block1 {
           margin-left: 92px;
           width: 8px;
           height: 148px; }
-        .gsw_container .gsw-main .card-item .card-link .card-image-block .image-of-block2 {
+        .slappyworld_r_container .slappyworld_r-main .card-item .card-link .card-image-block .image-of-block2 {
           width: 100px;
           height: 148px; }
-      .gsw_container .gsw-main .card-item .card-link .last-card-little-font {
+      .slappyworld_r_container .slappyworld_r-main .card-item .card-link .last-card-little-font {
         font-size: 14px; }
-  .gsw_container .gsw-main .card-item_done {
+  .slappyworld_r_container .slappyworld_r-main .card-item_done {
     -webkit-animation: 5s swap-color6 infinite;
             animation: 5s swap-color6 infinite; }
 
-.new_link1-container {
+.slappyworld_e_container {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column; }
+  .slappyworld_e_container .header {
+    display: block; }
+    .slappyworld_e_container .header .fixed {
+      position: fixed; }
+    .slappyworld_e_container .header-image {
+      width: 250px;
+      height: 190px;
+      top: 0;
+      left: 0; }
+    .slappyworld_e_container .header-link {
+      position: absolute;
+      display: -webkit-box;
+      display: -ms-flexbox;
+      display: flex;
+      -webkit-box-orient: vertical;
+      -webkit-box-direction: normal;
+          -ms-flex-direction: column;
+              flex-direction: column;
+      height: 45px;
+      -webkit-box-pack: justify;
+          -ms-flex-pack: justify;
+              justify-content: space-between;
+      top: 20px;
+      left: 160px; }
+      .slappyworld_e_container .header-link a {
+        text-decoration: none;
+        font-size: 14px;
+        color: #caa5ca; }
+    .slappyworld_e_container .header .item {
+      display: inline-block;
+      width: 250px; }
+      .slappyworld_e_container .header .item img {
+        width: 100%;
+        height: 96.61px; }
+      .slappyworld_e_container .header .item .image2 {
+        width: 230px;
+        height: 100px; }
+      .slappyworld_e_container .header .item .header-image {
+        height: auto; }
+    .slappyworld_e_container .header .item1 {
+      position: relative;
+      margin-left: 300px; }
+  .slappyworld_e_container .slappyworld_e-main {
+    margin-left: 300px;
+    display: grid;
+    grid-template-columns: repeat(4, 214px);
+    grid-column-gap: 45px;
+    grid-row-gap: 15px; }
+    .slappyworld_e_container .slappyworld_e-main .card-item {
+      width: 214px;
+      height: 282px;
+      border: 2px solid black;
+      padding: 5px;
+      -webkit-box-sizing: border-box;
+              box-sizing: border-box; }
+      .slappyworld_e_container .slappyworld_e-main .card-item .card-image1 {
+        width: 200px;
+        height: 268px;
+        margin-right: 100px; }
+      .slappyworld_e_container .slappyworld_e-main .card-item .card-link {
+        text-decoration: none;
+        color: black;
+        font-size: 15px; }
+        .slappyworld_e_container .slappyworld_e-main .card-item .card-link .card-image-block {
+          display: -webkit-box;
+          display: -ms-flexbox;
+          display: flex; }
+          .slappyworld_e_container .slappyworld_e-main .card-item .card-link .card-image-block .image-of-block {
+            width: 100px;
+            height: 148px; }
+
+.tales_container {
   min-height: 100vh;
-  background-color: #ebf3bf; }
-  .new_link1-container .header-image {
-    width: 230px;
-    height: 190px;
-    top: 0;
-    left: 0; }
-  .new_link1-container .header-link {
-    position: absolute;
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-    -webkit-box-orient: vertical;
-    -webkit-box-direction: normal;
-        -ms-flex-direction: column;
-            flex-direction: column;
-    height: 45px;
-    -webkit-box-pack: justify;
-        -ms-flex-pack: justify;
-            justify-content: space-between;
-    top: 20px;
-    left: 160px; }
-    .new_link1-container .header-link a {
+  max-width: 100vw;
+  overflow: hidden;
+  background: url(../images/index-images/fone7.png) no-repeat;
+  background-size: 100% 100%;
+  background-attachment: fixed; }
+  .tales_container .header {
+    display: block; }
+    .tales_container .header .fixed {
+      position: fixed; }
+    .tales_container .header-image {
+      width: 250px;
+      height: 190px;
+      top: 0;
+      left: 0; }
+    .tales_container .header-link {
+      position: absolute;
+      display: -webkit-box;
+      display: -ms-flexbox;
+      display: flex;
+      -webkit-box-orient: vertical;
+      -webkit-box-direction: normal;
+          -ms-flex-direction: column;
+              flex-direction: column;
+      height: 45px;
+      -webkit-box-pack: justify;
+          -ms-flex-pack: justify;
+              justify-content: space-between;
+      top: 20px;
+      left: 160px; }
+      .tales_container .header-link a {
+        text-decoration: none;
+        font-size: 14px;
+        color: #caa5ca; }
+    .tales_container .header .item {
+      width: 250px;
+      display: inline-block; }
+      .tales_container .header .item img {
+        width: 100%;
+        height: 96.61px; }
+      .tales_container .header .item .image2 {
+        width: 230px;
+        height: 100px; }
+      .tales_container .header .item .header-image {
+        height: auto; }
+    .tales_container .header .item1 {
+      position: relative;
+      margin-left: 280px; }
+  .tales_container .space {
+    width: 250px;
+    height: 97px;
+    margin: 5px 0 5px 280px;
+    border: 1px solid #000;
+    background-image: url(../images/index-images/monsteredition_e.png);
+    background-size: 100% 100%; }
+  .tales_container .img-slide {
+    width: 702px;
+    height: 300px;
+    margin: 15px 0 5px 280px;
+    background-size: 100% 100%;
+    background-image: url(../images/tales-images/img7.jpg); }
+
+.tales-main {
+  margin: 0 280px;
+  display: grid;
+  grid-template-columns: repeat(3, 214px);
+  grid-column-gap: 30px;
+  grid-row-gap: 16px; }
+  .tales-main .card-item {
+    width: 214px;
+    height: 200px;
+    border: 2px solid black;
+    padding: 5px;
+    -webkit-box-sizing: border-box;
+            box-sizing: border-box; }
+    .tales-main .card-item .card-image1 {
+      width: 200px;
+      height: 148px;
+      margin-right: 100px; }
+    .tales-main .card-item .card-link {
       text-decoration: none;
-      font-size: 14px;
-      color: #caa5ca; }
+      color: black;
+      font-size: 13px; }
+      .tales-main .card-item .card-link .card-image-block {
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex; }
+        .tales-main .card-item .card-link .card-image-block .image-of-block {
+          width: 100px;
+          height: 148px; }
 
-.new_link1-main {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex; }
-  .new_link1-main .grid1 {
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-    -ms-flex-wrap: wrap;
-        flex-wrap: wrap;
-    width: 410px;
-    height: 5px; }
-    .new_link1-main .grid1 img {
-      width: 400px;
-      height: 225px;
-      margin: 5px; }
-  .new_link1-main .grid2 {
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-    -ms-flex-wrap: wrap;
-        flex-wrap: wrap;
-    width: 230px;
-    height: 5px; }
-    .new_link1-main .grid2 img {
-      width: 225px;
-      height: 225px;
-      margin: 5px; }
-  .new_link1-main .grid3 {
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-    -ms-flex-wrap: wrap;
-        flex-wrap: wrap;
-    width: 300px;
-    height: 5px; }
-    .new_link1-main .grid3 img {
-      width: 225px;
-      height: 300px;
-      margin: 5px auto; }
-
-.new_link2-container {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  min-height: 100vh;
-  background-color: #f3bfbf; }
-  .new_link2-container .header-image {
-    width: 230px;
-    height: 190px;
-    top: 0;
-    left: 0; }
-  .new_link2-container .header-link {
-    position: absolute;
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-    -webkit-box-orient: vertical;
-    -webkit-box-direction: normal;
-        -ms-flex-direction: column;
-            flex-direction: column;
-    height: 45px;
-    -webkit-box-pack: justify;
-        -ms-flex-pack: justify;
-            justify-content: space-between;
-    top: 20px;
-    left: 160px; }
-    .new_link2-container .header-link a {
+.tales-main2 {
+  margin: 0 280px;
+  display: grid;
+  grid-template-columns: repeat(3, 214px);
+  grid-column-gap: 30px;
+  grid-row-gap: 16px; }
+  .tales-main2 .card-item {
+    width: 214px;
+    height: 300px;
+    border: 2px solid black;
+    padding: 5px;
+    -webkit-box-sizing: border-box;
+            box-sizing: border-box; }
+    .tales-main2 .card-item .card-image1 {
+      width: 200px;
+      height: 258px;
+      margin-right: 100px; }
+    .tales-main2 .card-item .card-link {
       text-decoration: none;
-      font-size: 14px;
-      color: #caa5ca; }
+      color: black;
+      font-size: 13px; }
+      .tales-main2 .card-item .card-link .card-image-block {
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex; }
+        .tales-main2 .card-item .card-link .card-image-block .image-of-block {
+          width: 100px;
+          height: 148px; }
 
-.new_link2-main {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex; }
-  .new_link2-main .grid1 {
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-    -ms-flex-wrap: wrap;
-        flex-wrap: wrap;
-    width: 410px;
-    height: 5px; }
-    .new_link2-main .grid1 img {
-      width: 400px;
-      height: 225px;
-      margin: 5px; }
-  .new_link2-main .grid2 {
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-    -ms-flex-wrap: wrap;
-        flex-wrap: wrap;
-    width: 230px;
-    height: 5px; }
-    .new_link2-main .grid2 img {
-      width: 225px;
-      height: 225px;
-      margin: 5px; }
-  .new_link2-main .grid3 {
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-    -ms-flex-wrap: wrap;
-        flex-wrap: wrap;
-    width: 300px;
-    height: 5px; }
-    .new_link2-main .grid3 img {
-      width: 225px;
-      height: 300px;
-      margin: 5px auto; }
-
-.new_link3-container {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  min-height: 100vh;
-  background-color: #bfd7f3; }
-  .new_link3-container .header-image {
-    width: 230px;
-    height: 190px;
-    top: 0;
-    left: 0; }
-  .new_link3-container .header-link {
-    position: absolute;
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-    -webkit-box-orient: vertical;
-    -webkit-box-direction: normal;
-        -ms-flex-direction: column;
-            flex-direction: column;
-    height: 45px;
-    -webkit-box-pack: justify;
-        -ms-flex-pack: justify;
-            justify-content: space-between;
-    top: 20px;
-    left: 160px; }
-    .new_link3-container .header-link a {
+.tales-main3 {
+  margin: 0 280px;
+  display: grid;
+  grid-template-columns: repeat(3, 214px);
+  grid-column-gap: 30px;
+  grid-row-gap: 16px; }
+  .tales-main3 .card-item {
+    width: 214px;
+    height: 200px;
+    border: 2px solid black;
+    padding: 5px;
+    -webkit-box-sizing: border-box;
+            box-sizing: border-box; }
+    .tales-main3 .card-item .card-image1 {
+      width: 200px;
+      height: 190px;
+      margin-right: 100px; }
+    .tales-main3 .card-item .card-link {
       text-decoration: none;
-      font-size: 14px;
-      color: #caa5ca; }
-
-.new_link3-main {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex; }
-  .new_link3-main .grid1 {
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-    -ms-flex-wrap: wrap;
-        flex-wrap: wrap;
-    width: 410px;
-    height: 5px; }
-    .new_link3-main .grid1 img {
-      width: 400px;
-      height: 225px;
-      margin: 5px; }
-  .new_link3-main .grid2 {
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-    -ms-flex-wrap: wrap;
-        flex-wrap: wrap;
-    width: 230px;
-    height: 5px; }
-    .new_link3-main .grid2 img {
-      width: 225px;
-      height: 225px;
-      margin: 5px; }
-  .new_link3-main .grid3 {
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-    -ms-flex-wrap: wrap;
-        flex-wrap: wrap;
-    width: 300px;
-    height: 5px; }
-    .new_link3-main .grid3 img {
-      width: 225px;
-      height: 300px;
-      margin: 5px auto; }
+      color: black;
+      font-size: 13px; }
+      .tales-main3 .card-item .card-link .card-image-block {
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex; }
+        .tales-main3 .card-item .card-link .card-image-block .image-of-block {
+          width: 100px;
+          height: 148px; }
 
 .bez-raznici-fone {
   position: fixed;
@@ -2130,41 +1722,117 @@
   100% {
     background-image: url(../images/bez-raznici/br31.jpg); } }
 
+.ast-container {
+  min-height: 100vh;
+  max-width: 100vw;
+  overflow: hidden;
+  background: url(../images/index-images/fone3.jpg) no-repeat;
+  background-size: 100% 100%;
+  background-attachment: fixed;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex; }
+  .ast-container .header-image {
+    width: 250px;
+    height: 210px;
+    top: 0;
+    left: 0; }
+  .ast-container .header-link {
+    position: absolute;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    height: 45px;
+    -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+    top: 20px;
+    left: 160px; }
+    .ast-container .header-link a {
+      text-decoration: none;
+      font-size: 14px;
+      color: #caa5ca; }
+
+.ast-main {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin-left: 5px; }
+  .ast-main .container {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center; }
+    .ast-main .container .item {
+      -webkit-box-sizing: border-box;
+              box-sizing: border-box;
+      width: 214px;
+      height: 200px;
+      border: 2px solid black;
+      padding: 5px;
+      background-color: white;
+      margin: 5px 5px 0 0; }
+      .ast-main .container .item_image {
+        width: 100%;
+        height: 150px; }
+      .ast-main .container .item_image1 {
+        display: block;
+        width: 100px; }
+    .ast-main .container .item-title {
+      width: 214px;
+      height: 100px;
+      border: none;
+      padding: 5px;
+      margin-right: 5px; }
+      .ast-main .container .item-title_image {
+        width: 100%;
+        height: 100px; }
+  .ast-main .card-item_done {
+    -webkit-animation: 5s swap-color7 infinite;
+            animation: 5s swap-color7 infinite; }
+
 body {
   margin: 0;
   padding: 0;
   font-family: "Roboto", sans-serif; }
 
-.hihihi-link {
-  left: 137px !important; }
-
 @-webkit-keyframes swap-color0 {
   0% {
-    background-color: #00d4fa; }
+    background-color: #09daff; }
   20% {
-    background-color: #39cefc; }
+    background-color: #09daff; }
   40% {
-    background-color: #4ea1ee; }
+    background-color: #09daff; }
   60% {
-    background-color: #cc1df8; }
+    background-color: #f78bce; }
   80% {
-    background-color: #b438ee; }
+    background-color: #f78bce; }
   100% {
-    background-color: #f580db; } }
+    background-color: #09daff; } }
 
 @keyframes swap-color0 {
   0% {
-    background-color: #00d4fa; }
+    background-color: #09daff; }
   20% {
-    background-color: #39cefc; }
+    background-color: #09daff; }
   40% {
-    background-color: #4ea1ee; }
+    background-color: #09daff; }
   60% {
-    background-color: #cc1df8; }
+    background-color: #f78bce; }
   80% {
-    background-color: #b438ee; }
+    background-color: #f78bce; }
   100% {
-    background-color: #f580db; } }
+    background-color: #09daff; } }
 
 @-webkit-keyframes swap-color1 {
   0% {

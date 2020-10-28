@@ -1,25 +1,19 @@
 @import "index";
-@import "goosebumps";
-@import "give_youself_goosebumps";
-@import "tales_to_give_you_goosebumps";
-@import "goosebumps_horrorland";
-@import "goosebumps_hall_of_horrors";
-@import "most_wanted";
-@import "monster_edition";
-@import "slappy_world";
-@import "ros";
-@import "goose";
-@import "hr";
-@import "hh";
-@import "mw";
-@import "goosebumps_triple_header";
-@import "gr2";
-@import "gsw";
-// @import "gmt";
-@import "new_link1";
-@import "new_link2";
-@import "new_link3";
+@import "goosebumps_r";
+@import "goosebumps_e";
+@import "goosebumps2_r";
+@import "reader_beware_e";
+@import "horrorland_r";
+@import "horrorland_e";
+@import "halllofhorrors_r";
+@import "halllofhorrors_e";
+@import "mostwanted_r";
+@import "mostwanted_e";
+@import "slappyworld_r";
+@import "slappyworld_e";
+@import "tales";
 @import "bez-raznici";
+@import "ast";
 
 body {
   margin: 0;
@@ -27,33 +21,29 @@ body {
   font-family: "Roboto", sans-serif;
 }
 
-.hihihi-link {
-  left: 137px !important;
-}
-
 @keyframes swap-color0 {
   0% {
-    background-color: rgb(0, 212, 250);
+    background-color: rgb(9, 218, 255);
   }
 
   20% {
-    background-color: rgb(57, 206, 252);
+    background-color: rgb(9, 218, 255);
   }
 
   40% {
-    background-color: rgb(78, 161, 238);
+    background-color: rgb(9, 218, 255);
   }
 
   60% {
-    background-color: rgb(204, 29, 248);
+    background-color: rgb(247, 139, 206);
   }
 
   80% {
-    background-color: rgb(180, 56, 238);
+    background-color: rgb(247, 139, 206);
   }
 
   100% {
-    background-color: rgb(245, 128, 219);
+    background-color: rgb(9, 218, 255);
   }
 }
 
